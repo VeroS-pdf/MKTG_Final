@@ -1,0 +1,1801 @@
+user_id,listing_id,city,trip_purpose,guests,nights_stayed,total_paid,rating,booking_month
+U0145,L0290,Chicago,group,4,3,834,5,10
+U0189,L0337,New York,leisure,2,3,768,4,7
+U0172,L0016,Boston,leisure,2,7,1197,3,3
+U0020,L0465,Miami,romantic,2,7,826,5,2
+U0024,L0148,Boston,leisure,1,5,550,5,12
+U0246,L0496,San Francisco,family,3,5,1105,5,9
+U0202,L0368,Miami,group,7,10,2020,5,2
+U0112,L0074,Chicago,business,2,3,906,4,9
+U0021,L0391,San Francisco,leisure,1,5,1625,5,7
+U0143,L0535,Chicago,business,1,1,236,5,8
+U0137,L0139,Chicago,family,4,1,242,5,9
+U0233,L0585,Boston,business,1,2,164,5,11
+U0025,L0111,Boston,group,4,5,200,5,9
+U0055,L0088,Chicago,family,3,4,992,5,1
+U0065,L0190,Miami,family,4,3,639,4,12
+U0221,L0086,San Francisco,group,2,1,299,5,12
+U0051,L0585,Boston,leisure,2,4,328,1,1
+U0071,L0153,Boston,romantic,2,7,364,3,3
+U0179,L0232,Boston,business,5,5,1305,2,2
+U0107,L0058,Boston,group,4,3,786,4,6
+U0184,L0308,Boston,leisure,2,3,393,4,9
+U0058,L0067,Boston,leisure,1,4,192,5,11
+U0227,L0353,New York,leisure,1,2,548,5,10
+U0192,L0099,Boston,group,6,10,2080,2,5
+U0018,L0120,Miami,leisure,1,2,366,3,8
+U0004,L0242,Chicago,romantic,5,3,288,5,8
+U0245,L0310,New York,romantic,3,2,552,4,9
+U0206,L0247,Miami,family,1,1,368,5,11
+U0010,L0343,New York,leisure,1,3,348,4,12
+U0058,L0297,New York,leisure,1,1,179,5,4
+U0034,L0091,Miami,romantic,2,3,531,5,5
+U0056,L0585,Boston,romantic,2,3,246,5,11
+U0039,L0388,New York,group,4,7,735,5,10
+U0244,L0069,New York,leisure,2,5,1025,5,12
+U0080,L0517,New York,leisure,2,4,692,5,9
+U0087,L0334,Boston,business,1,10,2350,5,11
+U0015,L0138,New York,romantic,1,2,702,4,12
+U0062,L0369,San Francisco,group,5,7,1036,5,12
+U0069,L0307,Miami,leisure,2,5,1035,4,8
+U0085,L0399,Miami,family,1,5,1085,5,6
+U0248,L0328,New York,group,5,4,328,5,12
+U0153,L0041,Miami,leisure,2,3,819,5,6
+U0074,L0352,Miami,leisure,2,4,1068,1,5
+U0131,L0267,New York,family,3,2,322,4,10
+U0098,L0348,New York,leisure,1,2,216,5,5
+U0035,L0583,Chicago,leisure,1,5,920,5,2
+U0239,L0509,New York,group,4,14,3920,5,3
+U0241,L0095,Miami,leisure,1,3,342,4,8
+U0146,L0465,Miami,group,5,2,236,5,1
+U0137,L0362,New York,business,3,10,1070,5,2
+U0095,L0055,Miami,romantic,2,10,2510,5,6
+U0209,L0586,San Francisco,romantic,4,7,1876,4,5
+U0217,L0034,Miami,leisure,3,2,432,4,7
+U0204,L0459,New York,group,4,7,1057,4,3
+U0148,L0355,San Francisco,family,4,3,279,4,1
+U0166,L0185,San Francisco,romantic,2,7,1078,5,6
+U0167,L0033,Boston,romantic,2,1,150,5,12
+U0033,L0128,Miami,leisure,2,3,798,5,1
+U0155,L0368,Miami,romantic,4,4,808,3,11
+U0178,L0098,New York,family,5,10,2190,4,6
+U0090,L0583,Chicago,business,1,3,552,5,10
+U0186,L0543,Miami,business,2,2,200,3,6
+U0212,L0156,Boston,leisure,2,2,340,4,4
+U0180,L0483,Chicago,group,5,4,612,1,12
+U0178,L0440,Boston,family,5,2,480,4,6
+U0249,L0265,Boston,leisure,3,1,126,2,3
+U0100,L0106,Boston,business,1,5,605,5,1
+U0026,L0082,Chicago,leisure,3,2,422,3,4
+U0229,L0499,Chicago,romantic,3,14,1876,5,12
+U0196,L0241,San Francisco,leisure,1,5,570,5,3
+U0038,L0185,San Francisco,leisure,1,14,2156,5,12
+U0131,L0072,New York,family,4,5,700,4,11
+U0220,L0494,Boston,family,4,7,1778,5,3
+U0188,L0037,Miami,leisure,2,3,474,5,4
+U0096,L0183,Miami,business,1,7,1407,5,11
+U0030,L0278,Miami,leisure,1,3,369,5,1
+U0125,L0558,Boston,leisure,3,4,520,4,6
+U0039,L0517,New York,group,3,1,173,5,9
+U0201,L0383,San Francisco,business,1,2,196,5,7
+U0017,L0246,New York,family,5,5,560,2,2
+U0205,L0468,New York,leisure,1,4,460,4,2
+U0020,L0563,Boston,romantic,1,3,423,4,10
+U0185,L0139,Chicago,business,1,4,968,5,1
+U0123,L0016,Boston,group,5,2,342,4,2
+U0160,L0064,Miami,leisure,1,2,594,5,4
+U0147,L0534,Miami,leisure,3,3,396,5,10
+U0166,L0033,Boston,romantic,2,4,600,5,7
+U0126,L0078,Boston,romantic,2,5,830,5,11
+U0100,L0016,Boston,business,2,3,513,4,9
+U0160,L0423,San Francisco,leisure,1,3,282,4,11
+U0176,L0165,San Francisco,family,4,2,612,3,4
+U0008,L0499,Chicago,leisure,2,3,402,4,2
+U0151,L0051,Boston,leisure,1,5,1595,5,10
+U0164,L0589,Boston,family,4,2,296,1,7
+U0248,L0295,Miami,group,5,3,402,5,5
+U0147,L0295,Miami,leisure,2,10,1340,5,7
+U0228,L0564,Boston,leisure,1,14,1764,4,7
+U0063,L0486,Boston,family,3,2,128,4,5
+U0145,L0174,San Francisco,group,5,14,3794,4,11
+U0092,L0414,New York,group,5,3,786,4,10
+U0120,L0232,Boston,leisure,2,3,783,4,11
+U0053,L0299,San Francisco,leisure,3,14,1470,5,10
+U0218,L0425,Boston,leisure,1,4,928,4,4
+U0077,L0332,San Francisco,romantic,1,5,670,4,5
+U0157,L0298,Boston,family,1,5,1045,4,10
+U0116,L0348,New York,leisure,2,7,756,5,11
+U0215,L0104,Chicago,romantic,2,2,318,2,3
+U0155,L0441,New York,family,4,10,1670,5,11
+U0198,L0181,Chicago,group,1,1,50,4,3
+U0016,L0354,New York,leisure,2,5,605,5,6
+U0050,L0464,Miami,business,2,5,310,4,3
+U0220,L0206,New York,family,4,1,263,4,7
+U0238,L0542,Chicago,business,4,4,928,5,2
+U0035,L0504,Boston,leisure,1,7,1512,4,9
+U0181,L0203,Boston,leisure,3,4,840,5,7
+U0249,L0498,Chicago,group,2,2,212,3,4
+U0067,L0380,Miami,group,2,2,146,3,1
+U0227,L0174,San Francisco,business,1,2,542,4,4
+U0050,L0204,Miami,business,1,2,568,4,5
+U0060,L0276,Chicago,romantic,2,3,591,5,1
+U0009,L0355,San Francisco,leisure,1,5,465,5,7
+U0193,L0129,New York,leisure,2,7,1064,5,8
+U0228,L0385,Boston,leisure,2,2,298,5,1
+U0040,L0369,San Francisco,group,3,10,1480,4,7
+U0101,L0464,Miami,business,6,5,310,5,4
+U0035,L0101,Chicago,leisure,1,4,664,4,6
+U0103,L0081,Chicago,leisure,1,2,286,5,4
+U0065,L0291,Miami,family,4,1,242,5,8
+U0094,L0348,New York,group,7,7,756,3,6
+U0193,L0585,Boston,leisure,1,1,82,4,2
+U0242,L0506,Boston,business,5,4,860,5,1
+U0056,L0600,Chicago,romantic,1,2,352,3,10
+U0208,L0061,New York,business,1,3,372,4,5
+U0014,L0348,New York,family,2,7,756,5,8
+U0187,L0353,New York,leisure,1,4,1096,5,7
+U0028,L0597,Chicago,leisure,2,7,987,5,11
+U0139,L0279,Miami,leisure,1,2,596,5,9
+U0224,L0177,Boston,family,1,3,708,2,7
+U0195,L0308,Boston,leisure,1,10,1310,5,8
+U0064,L0345,New York,leisure,2,4,548,5,2
+U0023,L0389,New York,family,5,3,396,5,12
+U0142,L0580,New York,leisure,1,5,1050,2,1
+U0221,L0549,San Francisco,leisure,1,1,252,5,6
+U0027,L0474,Chicago,business,1,2,558,4,8
+U0027,L0151,San Francisco,business,1,10,580,5,9
+U0117,L0046,New York,leisure,2,3,213,4,3
+U0097,L0446,San Francisco,business,1,7,1736,4,12
+U0139,L0358,Boston,leisure,1,2,628,4,9
+U0216,L0371,New York,leisure,2,4,896,5,1
+U0206,L0248,Miami,leisure,1,4,1176,4,2
+U0157,L0154,San Francisco,leisure,1,5,635,4,7
+U0110,L0111,Boston,business,1,10,400,5,5
+U0048,L0573,Boston,business,1,3,804,5,10
+U0040,L0152,San Francisco,family,4,7,1036,4,3
+U0008,L0571,Chicago,leisure,1,10,680,4,6
+U0237,L0155,Miami,group,7,1,240,5,7
+U0060,L0320,Chicago,leisure,1,4,804,5,10
+U0186,L0473,New York,business,1,14,5166,2,11
+U0067,L0477,New York,leisure,1,4,644,4,4
+U0168,L0557,Boston,leisure,1,1,244,4,12
+U0220,L0453,Miami,family,4,1,283,5,2
+U0096,L0505,Chicago,business,1,10,2450,3,7
+U0140,L0534,Miami,romantic,3,14,1848,4,2
+U0136,L0470,Chicago,business,1,3,423,4,1
+U0204,L0347,New York,group,5,10,980,5,8
+U0063,L0209,Chicago,family,3,5,570,5,7
+U0192,L0587,San Francisco,group,5,2,112,4,11
+U0047,L0108,Boston,leisure,1,5,825,4,4
+U0047,L0564,Boston,leisure,3,1,126,4,4
+U0204,L0481,San Francisco,leisure,3,3,192,5,8
+U0221,L0101,Chicago,leisure,2,7,1162,4,5
+U0148,L0477,New York,family,5,2,322,5,1
+U0015,L0264,New York,romantic,2,3,222,2,12
+U0001,L0219,Chicago,leisure,2,10,2430,5,9
+U0102,L0050,New York,leisure,1,1,233,5,5
+U0063,L0394,Boston,family,3,5,990,5,7
+U0216,L0476,Boston,leisure,2,5,1055,5,7
+U0137,L0541,Boston,family,4,3,489,4,3
+U0217,L0565,Boston,leisure,2,7,322,5,4
+U0209,L0587,San Francisco,family,5,1,56,4,7
+U0046,L0127,Boston,leisure,1,2,274,5,2
+U0049,L0342,Miami,leisure,2,5,1010,4,3
+U0026,L0546,Chicago,leisure,3,14,2086,4,12
+U0220,L0325,Miami,leisure,4,3,312,5,8
+U0127,L0499,Chicago,group,2,1,134,5,1
+U0163,L0403,Chicago,romantic,1,2,284,5,10
+U0033,L0291,Miami,leisure,2,14,3388,3,10
+U0108,L0467,Chicago,leisure,2,4,244,5,3
+U0189,L0556,New York,leisure,2,7,1113,4,12
+U0245,L0240,Chicago,romantic,1,5,1275,5,3
+U0083,L0168,Chicago,business,2,4,1052,5,6
+U0058,L0517,New York,family,1,3,519,5,10
+U0221,L0289,Chicago,romantic,1,2,174,5,10
+U0078,L0330,Chicago,romantic,1,4,688,4,9
+U0201,L0267,New York,business,2,4,644,5,10
+U0073,L0105,Boston,romantic,3,14,2898,4,5
+U0029,L0147,Chicago,family,1,2,230,5,7
+U0188,L0077,Chicago,leisure,1,14,1918,4,5
+U0075,L0532,Boston,business,1,4,1052,5,1
+U0084,L0036,New York,business,1,2,362,3,7
+U0075,L0037,Miami,business,1,1,158,5,6
+U0134,L0195,San Francisco,leisure,2,1,200,5,11
+U0206,L0306,Miami,leisure,2,3,171,5,10
+U0189,L0550,Boston,leisure,2,7,1687,5,4
+U0004,L0330,Chicago,family,5,5,860,5,1
+U0174,L0256,Chicago,leisure,3,5,510,4,6
+U0166,L0211,Boston,romantic,3,3,474,3,4
+U0212,L0482,Boston,leisure,2,4,596,5,10
+U0014,L0408,Boston,leisure,2,10,1180,5,8
+U0042,L0541,Boston,family,5,7,1141,2,7
+U0096,L0046,New York,business,1,2,142,5,3
+U0154,L0234,New York,group,2,3,609,5,6
+U0043,L0067,Boston,family,3,3,144,5,6
+U0157,L0584,San Francisco,leisure,1,3,627,4,3
+U0241,L0455,New York,family,1,1,153,4,1
+U0067,L0408,Boston,leisure,2,10,1180,4,6
+U0153,L0287,Miami,business,3,3,483,3,4
+U0081,L0562,San Francisco,business,1,1,165,3,4
+U0027,L0450,San Francisco,business,1,1,204,5,2
+U0239,L0179,Miami,group,4,10,970,5,8
+U0041,L0173,Boston,romantic,2,3,555,5,9
+U0083,L0381,San Francisco,leisure,2,3,537,4,11
+U0216,L0556,New York,leisure,3,7,1113,3,6
+U0126,L0043,Chicago,group,1,3,576,3,6
+U0079,L0379,San Francisco,business,1,3,813,4,11
+U0055,L0113,New York,family,2,2,258,5,8
+U0031,L0299,San Francisco,group,6,5,525,5,5
+U0217,L0038,Boston,leisure,2,3,378,5,4
+U0032,L0265,Boston,family,3,1,126,5,11
+U0134,L0271,Boston,leisure,2,10,2390,5,9
+U0018,L0133,New York,business,2,3,549,5,7
+U0048,L0093,Boston,business,1,3,633,3,6
+U0213,L0230,Miami,group,1,5,1240,5,2
+U0132,L0056,New York,leisure,2,3,894,5,7
+U0128,L0527,Miami,leisure,1,3,390,4,10
+U0239,L0246,New York,group,5,2,224,5,10
+U0066,L0188,Miami,romantic,3,14,3136,4,10
+U0203,L0040,San Francisco,leisure,2,2,406,5,4
+U0148,L0282,San Francisco,family,3,7,728,5,12
+U0022,L0327,New York,business,1,4,1020,4,7
+U0071,L0452,Boston,group,2,5,770,4,10
+U0095,L0405,New York,romantic,2,10,1440,4,11
+U0182,L0101,Chicago,leisure,2,10,1660,5,3
+U0019,L0569,Miami,family,4,3,540,5,3
+U0077,L0205,Miami,romantic,1,4,696,5,8
+U0004,L0424,Chicago,leisure,5,2,232,5,4
+U0109,L0154,San Francisco,leisure,1,3,381,4,3
+U0186,L0013,New York,group,1,2,696,5,2
+U0148,L0491,San Francisco,family,5,7,581,3,1
+U0228,L0529,Chicago,business,1,10,1220,5,8
+U0120,L0302,San Francisco,group,2,2,572,5,4
+U0211,L0468,New York,business,1,7,805,4,12
+U0119,L0595,New York,business,1,7,1890,4,1
+U0192,L0085,Miami,group,5,4,992,5,9
+U0033,L0217,Miami,leisure,2,2,508,5,12
+U0110,L0047,New York,business,1,4,308,4,9
+U0184,L0209,Chicago,business,1,3,342,5,4
+U0103,L0309,Miami,leisure,1,10,1320,5,7
+U0194,L0348,New York,leisure,3,1,108,5,7
+U0146,L0325,Miami,family,7,2,208,5,6
+U0250,L0055,Miami,leisure,2,3,753,5,2
+U0167,L0244,Boston,romantic,2,7,742,4,6
+U0089,L0079,New York,group,5,3,417,4,11
+U0035,L0305,Boston,group,2,3,819,5,7
+U0197,L0345,New York,leisure,2,1,137,5,2
+U0097,L0054,San Francisco,leisure,1,7,1449,5,10
+U0179,L0262,New York,group,4,4,1024,4,7
+U0213,L0296,New York,leisure,3,14,3150,2,1
+U0035,L0139,Chicago,leisure,1,1,242,3,3
+U0240,L0218,New York,group,7,4,488,5,10
+U0059,L0596,Boston,romantic,1,1,292,4,7
+U0067,L0499,Chicago,leisure,2,14,1876,5,9
+U0138,L0514,San Francisco,family,3,3,378,4,2
+U0220,L0421,San Francisco,leisure,4,5,1085,5,5
+U0228,L0541,Boston,leisure,1,14,2282,5,7
+U0215,L0581,San Francisco,romantic,2,5,620,2,10
+U0129,L0315,New York,leisure,2,3,699,5,9
+U0057,L0155,Miami,business,1,3,720,5,2
+U0060,L0006,Chicago,business,2,4,856,3,11
+U0224,L0007,New York,business,1,2,670,3,3
+U0249,L0157,Boston,business,1,1,139,5,10
+U0009,L0361,San Francisco,leisure,1,3,459,3,2
+U0006,L0533,Chicago,leisure,3,3,489,5,4
+U0041,L0523,Boston,romantic,3,2,524,5,8
+U0183,L0468,New York,group,5,10,1150,3,1
+U0151,L0280,Chicago,leisure,2,2,322,4,7
+U0053,L0369,San Francisco,leisure,2,1,148,5,3
+U0075,L0550,Boston,business,1,7,1687,5,2
+U0028,L0083,Boston,leisure,1,1,210,4,12
+U0098,L0362,New York,leisure,1,1,107,5,1
+U0240,L0036,New York,group,6,4,724,5,12
+U0035,L0235,Chicago,leisure,1,2,214,5,6
+U0120,L0254,New York,leisure,2,1,235,3,10
+U0248,L0354,New York,group,4,2,242,5,11
+U0116,L0047,New York,leisure,1,2,154,5,12
+U0131,L0056,New York,family,2,4,1192,5,5
+U0081,L0492,San Francisco,business,2,3,837,3,3
+U0141,L0362,New York,leisure,1,7,749,5,1
+U0038,L0285,San Francisco,leisure,1,7,1659,5,3
+U0024,L0113,New York,leisure,1,3,387,4,3
+U0245,L0598,Boston,romantic,2,4,408,1,8
+U0227,L0481,San Francisco,leisure,1,1,64,5,6
+U0025,L0107,Boston,group,4,3,432,3,12
+U0143,L0515,Chicago,family,2,2,366,5,9
+U0090,L0038,Boston,business,1,2,252,3,9
+U0149,L0132,New York,business,1,7,441,5,12
+U0156,L0184,Miami,group,1,3,456,4,3
+U0055,L0047,New York,family,3,10,770,5,5
+U0007,L0147,Chicago,group,3,3,345,5,10
+U0009,L0519,Boston,leisure,1,7,518,3,1
+U0104,L0597,Chicago,romantic,3,7,987,5,12
+U0161,L0140,Miami,leisure,1,5,480,5,9
+U0112,L0600,Chicago,business,2,14,2464,5,9
+U0106,L0284,Chicago,family,4,2,398,5,3
+U0052,L0493,Miami,family,4,10,1860,3,1
+U0225,L0176,New York,family,5,1,96,2,4
+U0204,L0437,New York,group,5,14,3626,5,1
+U0001,L0460,Chicago,leisure,2,5,1345,5,2
+U0104,L0353,New York,leisure,2,14,3836,5,4
+U0036,L0598,Boston,leisure,2,3,306,5,12
+U0118,L0020,Chicago,family,2,3,453,5,2
+U0242,L0280,Chicago,group,4,3,483,4,1
+U0236,L0403,Chicago,family,2,2,284,4,12
+U0214,L0293,Boston,family,1,1,213,3,11
+U0155,L0226,New York,family,4,4,836,4,5
+U0039,L0531,Boston,group,4,2,246,5,4
+U0083,L0317,San Francisco,leisure,3,3,657,4,10
+U0153,L0386,Miami,leisure,2,7,1883,4,3
+U0184,L0023,Chicago,business,1,4,676,4,3
+U0181,L0517,New York,leisure,3,3,519,5,8
+U0153,L0002,San Francisco,leisure,3,2,184,5,6
+U0129,L0188,Miami,leisure,2,4,896,5,11
+U0249,L0197,Boston,leisure,2,2,212,5,1
+U0003,L0115,San Francisco,group,4,4,664,5,9
+U0180,L0401,New York,group,5,2,146,4,11
+U0250,L0038,Boston,leisure,1,2,252,5,1
+U0119,L0060,Boston,business,1,2,386,4,9
+U0063,L0298,Boston,business,3,1,209,3,3
+U0146,L0468,New York,group,6,3,345,4,9
+U0184,L0377,Chicago,business,1,5,500,4,5
+U0098,L0213,San Francisco,leisure,1,7,875,5,11
+U0077,L0018,Miami,romantic,2,2,102,3,8
+U0185,L0504,Boston,business,1,3,648,5,9
+U0247,L0356,New York,business,1,14,2926,5,2
+U0192,L0306,Miami,group,4,4,228,4,9
+U0101,L0325,Miami,business,6,10,1040,5,2
+U0245,L0273,Miami,family,3,7,973,4,5
+U0122,L0106,Boston,business,1,4,484,5,1
+U0010,L0072,New York,leisure,1,7,980,4,3
+U0033,L0189,Miami,leisure,2,7,1946,4,12
+U0193,L0129,New York,leisure,2,10,1520,4,5
+U0155,L0222,New York,leisure,3,2,572,4,11
+U0177,L0169,Chicago,leisure,3,4,788,3,8
+U0199,L0551,Miami,business,1,1,85,3,4
+U0079,L0528,San Francisco,group,1,4,944,4,12
+U0017,L0246,New York,family,4,4,448,4,7
+U0067,L0297,New York,business,1,7,1253,5,3
+U0209,L0180,San Francisco,business,4,4,1016,4,1
+U0031,L0246,New York,group,6,4,448,5,8
+U0037,L0540,Miami,business,1,3,459,5,12
+U0052,L0345,New York,family,3,4,548,5,2
+U0023,L0032,New York,family,4,2,286,5,4
+U0028,L0503,Miami,group,2,1,234,5,1
+U0200,L0480,Chicago,group,6,5,475,5,11
+U0184,L0589,Boston,business,2,14,2072,5,11
+U0073,L0569,Miami,leisure,1,3,540,5,4
+U0246,L0195,San Francisco,family,3,3,600,4,3
+U0143,L0289,Chicago,business,1,3,261,1,10
+U0195,L0271,Boston,leisure,1,3,717,5,9
+U0177,L0583,Chicago,leisure,2,4,736,5,11
+U0153,L0483,Chicago,leisure,1,14,2142,4,9
+U0051,L0282,San Francisco,leisure,1,1,104,5,1
+U0047,L0012,Chicago,leisure,2,4,324,5,8
+U0222,L0003,New York,business,4,2,420,4,4
+U0225,L0159,New York,family,4,2,126,5,7
+U0155,L0228,New York,family,3,4,1176,5,1
+U0100,L0151,San Francisco,business,1,3,174,5,12
+U0192,L0080,Boston,family,5,3,468,5,7
+U0019,L0004,Miami,group,5,2,350,4,3
+U0073,L0367,New York,romantic,3,3,1110,4,5
+U0129,L0013,New York,group,1,1,348,5,1
+U0081,L0072,New York,business,1,2,280,5,12
+U0141,L0383,San Francisco,leisure,2,5,490,4,6
+U0060,L0062,Chicago,family,1,1,249,4,7
+U0067,L0415,Boston,leisure,2,3,189,5,8
+U0064,L0262,New York,leisure,3,5,1280,5,2
+U0232,L0338,Miami,family,4,3,789,3,10
+U0128,L0309,Miami,leisure,2,3,396,4,8
+U0042,L0244,Boston,family,5,1,106,4,5
+U0109,L0092,Miami,leisure,2,1,299,3,4
+U0016,L0085,Miami,romantic,2,3,744,5,11
+U0193,L0517,New York,leisure,2,5,865,4,4
+U0136,L0124,Chicago,leisure,1,7,742,4,9
+U0217,L0298,Boston,leisure,2,4,836,4,6
+U0067,L0543,Miami,leisure,3,3,300,3,9
+U0214,L0044,Boston,leisure,2,3,786,4,11
+U0229,L0238,Miami,business,3,2,210,5,4
+U0187,L0272,Miami,leisure,1,3,786,5,4
+U0229,L0540,Miami,family,2,7,1071,5,5
+U0133,L0235,Chicago,business,1,4,428,4,6
+U0200,L0008,Boston,group,7,3,714,2,3
+U0122,L0507,Boston,business,1,5,615,5,7
+U0244,L0015,Boston,romantic,2,3,288,5,1
+U0189,L0432,Boston,leisure,2,7,1820,5,3
+U0112,L0469,Chicago,family,1,7,1848,4,3
+U0123,L0355,San Francisco,business,5,5,465,3,12
+U0046,L0172,Boston,leisure,2,3,837,3,6
+U0167,L0570,Miami,romantic,1,2,242,5,5
+U0041,L0236,Chicago,romantic,3,2,436,4,9
+U0060,L0117,Chicago,leisure,1,10,1790,5,10
+U0220,L0033,Boston,group,5,7,1050,5,1
+U0025,L0213,San Francisco,leisure,4,4,500,4,9
+U0007,L0465,Miami,leisure,4,7,826,5,4
+U0115,L0561,New York,business,2,3,1032,1,4
+U0054,L0533,Chicago,group,6,3,489,4,4
+U0219,L0423,San Francisco,leisure,1,2,188,4,9
+U0002,L0060,Boston,business,1,5,965,5,3
+U0226,L0415,Boston,business,1,2,126,5,8
+U0180,L0366,New York,group,6,2,272,5,2
+U0211,L0243,Miami,romantic,1,4,1056,4,3
+U0213,L0328,New York,romantic,2,3,246,5,9
+U0165,L0150,Boston,group,2,4,360,4,1
+U0116,L0542,Chicago,leisure,1,3,696,4,6
+U0193,L0046,New York,leisure,1,2,142,5,10
+U0246,L0432,Boston,family,3,1,260,4,5
+U0226,L0017,Chicago,group,1,2,188,5,3
+U0231,L0241,San Francisco,business,2,2,228,4,2
+U0011,L0232,Boston,leisure,1,10,2610,5,2
+U0159,L0202,Boston,romantic,1,2,80,5,4
+U0219,L0514,San Francisco,leisure,1,7,882,5,10
+U0050,L0221,Boston,business,1,7,518,4,10
+U0110,L0395,New York,business,1,1,86,5,3
+U0213,L0594,San Francisco,leisure,2,2,80,4,6
+U0193,L0594,San Francisco,leisure,2,4,160,5,8
+U0103,L0527,Miami,leisure,1,3,390,5,1
+U0099,L0499,Chicago,family,3,7,938,5,6
+U0160,L0437,New York,leisure,1,2,518,4,2
+U0124,L0542,Chicago,family,6,3,696,5,6
+U0039,L0499,Chicago,group,4,10,1340,4,12
+U0007,L0095,Miami,group,5,3,342,5,10
+U0041,L0164,Chicago,romantic,2,3,600,3,12
+U0028,L0271,Boston,leisure,2,7,1673,4,4
+U0185,L0435,New York,business,1,4,972,4,9
+U0218,L0590,Chicago,leisure,2,4,364,5,3
+U0096,L0109,San Francisco,business,1,2,560,3,11
+U0205,L0533,Chicago,leisure,1,10,1630,5,5
+U0198,L0491,San Francisco,leisure,2,1,83,5,4
+U0247,L0200,New York,romantic,1,5,1320,5,2
+U0092,L0098,New York,group,5,3,657,5,5
+U0015,L0421,San Francisco,group,2,3,651,5,12
+U0139,L0540,Miami,business,1,3,459,4,3
+U0005,L0189,Miami,business,1,3,834,3,6
+U0079,L0586,San Francisco,business,2,3,804,5,3
+U0045,L0297,New York,leisure,2,1,179,3,3
+U0194,L0423,San Francisco,leisure,2,2,188,4,3
+U0166,L0111,Boston,romantic,2,5,200,4,10
+U0147,L0014,Miami,leisure,2,5,1070,5,3
+U0213,L0029,Miami,leisure,2,2,450,4,1
+U0247,L0277,Boston,leisure,1,2,128,3,12
+U0060,L0577,New York,leisure,1,5,1295,5,9
+U0159,L0117,Chicago,romantic,3,2,358,5,4
+U0098,L0345,New York,leisure,1,14,1918,5,11
+U0010,L0226,New York,leisure,1,3,627,5,7
+U0223,L0227,San Francisco,leisure,2,2,462,5,10
+U0084,L0123,Miami,business,1,2,540,4,11
+U0038,L0175,New York,leisure,1,14,1358,5,11
+U0240,L0282,San Francisco,group,6,5,520,5,12
+U0026,L0168,Chicago,business,2,7,1841,4,3
+U0119,L0310,New York,business,1,3,828,5,7
+U0220,L0454,San Francisco,family,4,2,436,5,7
+U0208,L0262,New York,business,1,7,1792,3,2
+U0214,L0472,Chicago,leisure,1,4,520,4,3
+U0074,L0289,Chicago,leisure,1,3,261,5,3
+U0057,L0324,San Francisco,business,1,5,1200,5,10
+U0066,L0496,San Francisco,group,2,14,3094,4,12
+U0058,L0589,Boston,leisure,1,2,296,5,3
+U0051,L0329,San Francisco,group,2,1,146,1,4
+U0129,L0357,San Francisco,leisure,2,5,1500,4,4
+U0083,L0011,Chicago,romantic,3,7,1337,2,2
+U0068,L0267,New York,family,2,3,483,5,5
+U0057,L0369,San Francisco,business,1,2,296,4,2
+U0139,L0586,San Francisco,business,1,3,804,5,4
+U0104,L0226,New York,leisure,2,4,836,5,9
+U0192,L0026,Miami,group,5,10,700,3,10
+U0216,L0599,New York,leisure,3,3,303,4,7
+U0006,L0161,Chicago,leisure,2,3,381,5,1
+U0059,L0189,Miami,business,1,10,2780,5,7
+U0124,L0016,Boston,leisure,7,7,1197,5,3
+U0047,L0345,New York,family,1,3,411,5,10
+U0005,L0346,Miami,business,1,4,840,4,11
+U0154,L0233,New York,leisure,2,3,357,4,11
+U0209,L0413,San Francisco,family,4,4,948,5,7
+U0007,L0268,New York,family,5,5,415,5,3
+U0036,L0037,Miami,leisure,1,2,316,5,9
+U0222,L0542,Chicago,group,3,3,696,4,2
+U0103,L0530,Chicago,leisure,2,7,770,1,10
+U0046,L0535,Chicago,leisure,3,4,944,5,3
+U0126,L0101,Chicago,business,2,3,498,4,8
+U0024,L0004,Miami,leisure,1,3,525,5,3
+U0104,L0058,Boston,leisure,2,2,524,5,2
+U0173,L0336,San Francisco,business,1,4,692,5,5
+U0092,L0240,Chicago,group,4,3,765,5,10
+U0088,L0136,Miami,business,1,1,156,4,5
+U0060,L0566,Chicago,leisure,1,5,995,5,12
+U0038,L0348,New York,leisure,1,5,540,3,7
+U0163,L0498,Chicago,romantic,3,2,212,4,10
+U0222,L0072,New York,group,4,3,420,5,11
+U0131,L0001,New York,family,3,2,560,4,1
+U0240,L0258,Boston,business,5,4,820,2,9
+U0162,L0417,San Francisco,romantic,2,4,1056,5,7
+U0039,L0455,New York,group,4,10,1530,5,5
+U0216,L0580,New York,leisure,2,10,2100,5,9
+U0130,L0309,Miami,leisure,1,14,1848,4,2
+U0020,L0004,Miami,romantic,3,3,525,5,7
+U0220,L0309,Miami,family,5,3,396,3,3
+U0216,L0463,New York,business,2,2,594,3,4
+U0173,L0329,San Francisco,business,1,2,292,4,11
+U0065,L0349,Miami,leisure,4,4,180,5,1
+U0189,L0489,New York,leisure,2,10,2860,3,4
+U0105,L0062,Chicago,romantic,2,10,2490,4,4
+U0003,L0212,San Francisco,leisure,4,4,432,4,10
+U0097,L0004,Miami,leisure,1,2,350,5,3
+U0217,L0048,San Francisco,family,3,3,774,4,2
+U0180,L0348,New York,group,4,5,540,5,4
+U0224,L0414,New York,business,1,2,524,5,2
+U0091,L0259,Chicago,family,3,14,4550,4,7
+U0039,L0153,Boston,group,5,3,156,4,9
+U0105,L0045,Miami,romantic,2,2,420,5,11
+U0232,L0548,Miami,family,4,1,177,4,3
+U0043,L0410,Chicago,family,3,2,528,4,10
+U0150,L0205,Miami,group,2,7,1218,4,10
+U0235,L0572,San Francisco,leisure,1,2,282,4,7
+U0143,L0535,Chicago,business,1,3,708,5,1
+U0078,L0170,Chicago,family,3,3,351,2,4
+U0025,L0518,Boston,leisure,4,3,540,4,3
+U0104,L0005,Chicago,leisure,2,7,1960,4,7
+U0038,L0246,New York,family,2,5,560,5,2
+U0056,L0017,Chicago,romantic,2,2,188,5,11
+U0216,L0098,New York,leisure,2,1,219,5,11
+U0099,L0483,Chicago,family,2,5,765,5,6
+U0159,L0038,Boston,leisure,3,3,378,4,8
+U0110,L0072,New York,romantic,1,4,560,4,10
+U0241,L0020,Chicago,leisure,1,4,604,5,1
+U0022,L0281,New York,business,1,2,200,5,7
+U0026,L0384,Miami,family,1,3,600,5,5
+U0064,L0400,San Francisco,leisure,1,2,552,5,11
+U0050,L0386,Miami,business,1,3,807,4,8
+U0127,L0104,Chicago,leisure,2,1,159,5,7
+U0023,L0033,Boston,family,6,2,300,4,10
+U0185,L0134,Chicago,business,1,3,120,4,5
+U0188,L0285,San Francisco,family,3,7,1659,4,10
+U0001,L0287,Miami,leisure,2,1,161,5,4
+U0081,L0412,New York,business,2,7,1939,4,2
+U0202,L0026,Miami,family,5,14,980,5,8
+U0178,L0395,New York,family,4,2,172,5,6
+U0099,L0143,Chicago,family,3,1,194,5,9
+U0001,L0422,Chicago,family,2,5,1315,5,5
+U0070,L0242,Chicago,business,1,4,384,4,1
+U0166,L0408,Boston,romantic,1,1,118,4,12
+U0080,L0267,New York,leisure,2,2,322,4,10
+U0237,L0094,Chicago,group,6,2,520,5,10
+U0098,L0132,New York,leisure,2,5,315,5,6
+U0235,L0280,Chicago,leisure,1,4,644,4,9
+U0139,L0261,Miami,leisure,1,3,465,5,5
+U0178,L0356,New York,family,4,2,418,4,3
+U0052,L0159,New York,family,3,4,252,5,9
+U0233,L0042,San Francisco,business,2,5,1585,5,12
+U0248,L0026,Miami,group,4,4,280,2,10
+U0180,L0571,Chicago,business,4,7,476,5,2
+U0052,L0537,Boston,family,4,3,648,3,9
+U0087,L0115,San Francisco,business,1,7,1162,4,10
+U0168,L0187,Boston,leisure,1,14,2198,5,3
+U0005,L0432,Boston,business,1,10,2600,5,6
+U0183,L0364,Chicago,group,6,5,475,5,11
+U0229,L0531,Boston,family,3,7,861,3,12
+U0019,L0235,Chicago,family,5,5,535,5,7
+U0105,L0273,Miami,romantic,1,2,278,4,6
+U0060,L0507,Boston,leisure,1,3,369,5,6
+U0125,L0004,Miami,leisure,2,2,350,4,1
+U0101,L0428,Miami,group,5,3,321,4,3
+U0188,L0496,San Francisco,leisure,1,1,221,5,10
+U0140,L0176,New York,leisure,2,4,384,5,11
+U0008,L0113,New York,leisure,2,1,129,4,8
+U0194,L0354,New York,group,2,4,484,4,7
+U0011,L0494,Boston,romantic,2,3,762,2,8
+U0240,L0230,Miami,group,6,2,496,4,1
+U0082,L0572,San Francisco,leisure,1,14,1974,4,4
+U0132,L0339,Chicago,group,2,1,412,5,6
+U0162,L0185,San Francisco,leisure,2,2,308,5,7
+U0104,L0101,Chicago,leisure,2,4,664,5,10
+U0127,L0533,Chicago,romantic,1,3,489,1,7
+U0216,L0401,New York,leisure,2,3,219,4,7
+U0231,L0113,New York,romantic,3,2,258,5,6
+U0007,L0134,Chicago,group,3,4,160,3,7
+U0128,L0407,San Francisco,leisure,1,1,171,5,3
+U0046,L0105,Boston,leisure,3,2,414,5,5
+U0015,L0481,San Francisco,romantic,2,5,320,4,12
+U0241,L0569,Miami,leisure,1,1,180,5,11
+U0239,L0414,New York,family,4,3,786,4,10
+U0055,L0310,New York,family,3,7,1932,5,12
+U0156,L0440,Boston,leisure,1,4,960,5,6
+U0176,L0475,New York,romantic,4,2,468,4,12
+U0023,L0218,New York,family,5,7,854,5,3
+U0007,L0347,New York,business,5,3,294,4,12
+U0123,L0547,San Francisco,family,6,2,322,5,1
+U0048,L0411,Boston,business,1,2,388,4,7
+U0159,L0157,Boston,romantic,2,2,278,5,4
+U0185,L0216,Chicago,business,1,4,160,2,1
+U0148,L0002,San Francisco,family,4,1,92,5,9
+U0072,L0176,New York,business,2,14,1344,5,9
+U0039,L0545,New York,family,4,3,189,5,12
+U0088,L0260,Miami,business,2,1,339,5,12
+U0156,L0394,Boston,leisure,1,14,2772,3,5
+U0063,L0108,Boston,business,3,2,330,5,8
+U0116,L0129,New York,group,1,2,304,3,7
+U0103,L0018,Miami,leisure,1,10,510,4,1
+U0061,L0047,New York,romantic,2,3,231,4,3
+U0162,L0584,San Francisco,family,1,7,1463,5,3
+U0230,L0016,Boston,group,6,4,684,5,9
+U0043,L0507,Boston,family,3,2,246,5,3
+U0004,L0565,Boston,family,5,3,138,5,11
+U0217,L0591,Miami,leisure,3,2,220,4,8
+U0069,L0335,Miami,leisure,2,4,880,4,10
+U0179,L0548,Miami,group,5,4,708,5,2
+U0066,L0469,Chicago,family,2,3,792,2,1
+U0222,L0533,Chicago,romantic,4,7,1141,4,4
+U0033,L0160,Miami,leisure,2,14,3934,4,2
+U0041,L0535,Chicago,romantic,1,10,2360,5,6
+U0158,L0267,New York,business,1,2,322,1,11
+U0116,L0414,New York,leisure,1,14,3668,5,10
+U0249,L0197,Boston,business,2,10,1060,4,7
+U0184,L0403,Chicago,business,2,4,568,3,9
+U0037,L0150,Boston,business,1,3,270,5,6
+U0169,L0517,New York,group,5,2,346,4,12
+U0052,L0442,San Francisco,family,5,4,920,4,10
+U0138,L0383,San Francisco,family,3,1,98,5,10
+U0069,L0136,Miami,group,2,7,1092,5,3
+U0052,L0084,New York,family,4,1,110,5,7
+U0022,L0098,New York,business,1,1,219,4,12
+U0116,L0190,Miami,leisure,1,3,639,5,6
+U0084,L0406,San Francisco,business,1,3,810,5,7
+U0071,L0057,New York,romantic,2,3,270,4,9
+U0220,L0493,Miami,family,4,1,186,3,6
+U0028,L0308,Boston,group,3,7,917,4,8
+U0239,L0113,New York,group,4,7,903,5,9
+U0110,L0599,New York,business,1,2,202,4,12
+U0017,L0218,New York,family,4,3,366,2,3
+U0235,L0513,Chicago,family,1,3,390,4,9
+U0157,L0174,San Francisco,leisure,1,1,271,5,5
+U0172,L0498,Chicago,leisure,2,3,318,3,8
+U0223,L0566,Chicago,family,3,3,597,5,9
+U0069,L0248,Miami,leisure,2,3,882,4,1
+U0119,L0580,New York,business,2,5,1050,5,1
+U0147,L0451,Miami,leisure,1,4,664,4,6
+U0150,L0020,Chicago,leisure,3,2,302,5,5
+U0070,L0029,Miami,business,2,7,1575,5,10
+U0250,L0369,San Francisco,leisure,2,2,296,5,5
+U0040,L0154,San Francisco,family,3,4,508,4,9
+U0112,L0404,Chicago,business,1,3,786,5,9
+U0231,L0329,San Francisco,business,1,14,2044,5,9
+U0134,L0555,Boston,leisure,2,4,800,5,12
+U0132,L0066,San Francisco,leisure,2,4,944,4,3
+U0249,L0599,New York,leisure,3,4,404,5,5
+U0043,L0558,Boston,family,3,2,260,5,4
+U0180,L0344,New York,group,4,2,148,5,6
+U0024,L0600,Chicago,leisure,1,5,880,5,3
+U0227,L0329,San Francisco,leisure,2,7,1022,5,10
+U0215,L0359,San Francisco,romantic,2,10,960,4,4
+U0168,L0293,Boston,leisure,1,4,852,5,3
+U0059,L0384,Miami,romantic,1,1,200,5,5
+U0224,L0420,Chicago,family,1,4,1220,3,8
+U0149,L0157,Boston,business,1,1,139,5,6
+U0052,L0401,New York,business,4,3,219,5,9
+U0017,L0061,New York,family,4,3,372,5,6
+U0131,L0122,Miami,family,4,3,657,5,9
+U0114,L0424,Chicago,leisure,1,1,116,4,7
+U0021,L0400,San Francisco,leisure,2,3,828,3,1
+U0162,L0402,New York,leisure,3,7,1701,5,11
+U0203,L0496,San Francisco,group,2,3,663,5,1
+U0167,L0344,New York,leisure,1,3,222,5,1
+U0117,L0408,Boston,leisure,3,5,590,5,10
+U0229,L0278,Miami,romantic,3,10,1230,5,10
+U0231,L0063,San Francisco,romantic,2,2,192,4,8
+U0131,L0590,Chicago,family,3,5,455,4,12
+U0115,L0563,Boston,business,1,3,423,5,6
+U0085,L0044,Boston,business,1,4,1048,5,6
+U0033,L0389,New York,business,3,3,396,5,5
+U0182,L0063,San Francisco,leisure,1,3,288,5,2
+U0080,L0362,New York,business,2,14,1498,5,11
+U0204,L0032,New York,group,4,2,286,5,11
+U0193,L0395,New York,leisure,2,4,344,5,8
+U0159,L0023,Chicago,romantic,2,7,1183,3,11
+U0069,L0346,Miami,leisure,2,2,420,4,1
+U0235,L0598,Boston,leisure,1,3,306,5,7
+U0056,L0216,Chicago,romantic,2,3,120,5,2
+U0091,L0247,Miami,family,3,3,1104,5,11
+U0113,L0388,New York,leisure,6,3,315,5,10
+U0213,L0405,New York,leisure,2,3,432,5,4
+U0059,L0055,Miami,business,2,3,753,5,6
+U0161,L0147,Chicago,leisure,1,4,460,5,4
+U0077,L0380,Miami,romantic,1,7,511,5,6
+U0191,L0379,San Francisco,group,4,2,542,3,12
+U0239,L0081,Chicago,group,4,3,429,4,3
+U0020,L0091,Miami,romantic,2,3,531,5,2
+U0059,L0269,San Francisco,group,1,4,976,4,9
+U0053,L0287,Miami,leisure,2,1,161,5,9
+U0104,L0422,Chicago,leisure,2,14,3682,5,7
+U0247,L0587,San Francisco,business,1,1,56,5,2
+U0143,L0261,Miami,romantic,1,3,465,3,7
+U0244,L0106,Boston,family,2,14,1694,5,1
+U0035,L0106,Boston,leisure,2,4,484,5,9
+U0011,L0135,Boston,leisure,2,5,1110,5,8
+U0092,L0011,Chicago,group,5,1,191,5,3
+U0163,L0256,Chicago,romantic,2,2,204,4,4
+U0199,L0354,New York,business,1,3,363,4,3
+U0223,L0057,New York,romantic,3,3,270,4,2
+U0146,L0297,New York,family,6,5,895,5,10
+U0195,L0203,Boston,family,1,3,630,4,5
+U0156,L0145,Boston,group,1,10,2450,5,1
+U0250,L0425,Boston,family,2,3,696,5,11
+U0066,L0306,Miami,romantic,3,2,114,5,1
+U0077,L0261,Miami,family,2,14,2170,3,12
+U0190,L0547,San Francisco,leisure,1,3,483,5,2
+U0030,L0569,Miami,leisure,1,3,540,5,4
+U0017,L0556,New York,family,4,1,159,1,8
+U0127,L0064,Miami,leisure,2,3,891,3,9
+U0014,L0582,Boston,leisure,1,4,464,5,4
+U0150,L0070,Miami,leisure,3,10,1760,4,7
+U0044,L0356,New York,group,5,5,1045,3,10
+U0172,L0342,Miami,leisure,1,3,606,4,1
+U0105,L0113,New York,romantic,2,7,903,5,12
+U0019,L0273,Miami,family,4,2,278,5,1
+U0048,L0207,Boston,business,1,14,2856,4,12
+U0005,L0091,Miami,business,1,2,354,5,1
+U0104,L0017,Chicago,leisure,3,2,188,3,10
+U0037,L0428,Miami,group,1,3,321,4,3
+U0035,L0040,San Francisco,group,1,1,203,4,3
+U0171,L0296,New York,leisure,2,3,675,5,1
+U0218,L0497,Chicago,leisure,2,2,648,5,2
+U0050,L0123,Miami,leisure,1,3,810,5,3
+U0063,L0316,San Francisco,family,3,7,1498,4,4
+U0078,L0280,Chicago,romantic,2,2,322,5,1
+U0045,L0388,New York,leisure,1,3,315,4,12
+U0208,L0227,San Francisco,business,1,3,693,5,5
+U0170,L0213,San Francisco,business,1,4,500,5,6
+U0177,L0240,Chicago,group,1,14,3570,4,5
+U0125,L0120,Miami,leisure,1,3,549,4,10
+U0235,L0215,Chicago,business,1,2,284,5,7
+U0218,L0458,Boston,family,1,2,222,5,7
+U0185,L0143,Chicago,business,1,3,582,5,3
+U0196,L0424,Chicago,leisure,1,7,812,5,12
+U0194,L0569,Miami,leisure,2,2,360,3,11
+U0118,L0205,Miami,business,1,5,870,5,4
+U0241,L0551,Miami,leisure,2,3,255,5,1
+U0106,L0543,Miami,family,5,3,300,4,10
+U0156,L0590,Chicago,leisure,1,4,364,4,11
+U0243,L0071,San Francisco,leisure,2,3,822,5,2
+U0008,L0366,New York,leisure,2,7,952,5,12
+U0043,L0599,New York,family,3,1,101,5,9
+U0232,L0433,Chicago,family,4,7,1652,4,2
+U0034,L0313,San Francisco,romantic,2,5,865,5,7
+U0048,L0333,Boston,business,1,7,1708,5,12
+U0076,L0265,Boston,leisure,1,2,252,5,3
+U0192,L0480,Chicago,group,6,7,665,1,5
+U0130,L0517,New York,romantic,1,2,346,5,10
+U0118,L0345,New York,business,2,3,411,5,4
+U0056,L0483,Chicago,romantic,2,2,306,3,6
+U0202,L0057,New York,group,6,3,270,5,12
+U0150,L0070,Miami,business,2,2,352,4,11
+U0108,L0563,Boston,leisure,3,2,282,5,9
+U0205,L0077,Chicago,romantic,2,5,685,5,4
+U0010,L0214,New York,leisure,1,10,2110,3,10
+U0168,L0489,New York,leisure,1,4,1144,5,11
+U0231,L0129,New York,romantic,2,3,456,5,2
+U0104,L0463,New York,leisure,2,14,4158,5,5
+U0037,L0205,Miami,family,2,2,348,5,5
+U0228,L0038,Boston,leisure,2,2,252,4,10
+U0172,L0588,Miami,leisure,2,10,2240,5,7
+U0016,L0354,New York,leisure,1,1,121,5,2
+U0053,L0441,New York,business,2,4,668,5,8
+U0172,L0598,Boston,leisure,1,4,408,5,3
+U0216,L0468,New York,leisure,1,2,230,3,10
+U0055,L0346,Miami,business,4,3,630,4,2
+U0062,L0047,New York,group,4,10,770,5,11
+U0098,L0405,New York,leisure,1,14,2016,4,6
+U0073,L0435,New York,romantic,1,2,486,5,7
+U0153,L0249,Boston,family,2,1,291,5,6
+U0045,L0295,Miami,leisure,2,7,938,1,8
+U0185,L0386,Miami,business,2,3,807,5,6
+U0110,L0228,New York,business,1,3,882,5,1
+U0095,L0468,New York,romantic,2,5,575,4,4
+U0094,L0388,New York,romantic,5,2,210,3,8
+U0040,L0178,San Francisco,family,3,5,450,4,7
+U0224,L0007,New York,family,1,4,1340,3,4
+U0002,L0335,Miami,family,1,4,880,5,12
+U0132,L0515,Chicago,romantic,2,2,366,1,9
+U0154,L0323,Boston,leisure,2,14,3066,5,9
+U0037,L0447,Miami,business,1,2,302,5,11
+U0042,L0108,Boston,family,5,4,660,4,1
+U0138,L0268,New York,family,4,7,581,5,10
+U0153,L0004,Miami,family,2,2,350,2,10
+U0206,L0248,Miami,leisure,1,7,2058,3,6
+U0171,L0599,New York,romantic,1,3,303,4,3
+U0197,L0441,New York,romantic,1,2,334,5,2
+U0164,L0400,San Francisco,group,4,4,1104,2,1
+U0033,L0056,New York,leisure,2,1,298,4,4
+U0078,L0235,Chicago,leisure,2,7,749,3,5
+U0121,L0191,Miami,business,1,5,1285,5,2
+U0165,L0485,Boston,leisure,2,10,800,4,8
+U0234,L0546,Chicago,leisure,2,14,2086,5,10
+U0198,L0185,San Francisco,leisure,1,1,154,5,5
+U0239,L0541,Boston,group,4,5,815,5,9
+U0083,L0543,Miami,leisure,1,3,300,5,9
+U0195,L0008,Boston,leisure,1,7,1666,5,12
+U0077,L0140,Miami,romantic,2,3,288,5,2
+U0187,L0237,Miami,leisure,1,3,720,4,6
+U0114,L0344,New York,leisure,1,3,222,4,7
+U0170,L0587,San Francisco,business,1,7,392,3,9
+U0072,L0559,New York,business,1,3,225,5,5
+U0069,L0570,Miami,leisure,1,7,847,5,9
+U0073,L0138,New York,romantic,2,5,1755,5,9
+U0002,L0054,San Francisco,business,1,3,621,3,6
+U0064,L0416,Miami,leisure,2,2,452,5,10
+U0238,L0117,Chicago,group,4,7,1253,5,5
+U0043,L0089,Boston,family,3,2,612,5,10
+U0204,L0356,New York,group,3,2,418,4,6
+U0164,L0537,Boston,family,3,2,432,4,3
+U0155,L0128,Miami,family,3,10,2660,5,3
+U0026,L0103,Chicago,leisure,1,4,756,5,7
+U0119,L0595,New York,business,2,2,540,3,3
+U0231,L0594,San Francisco,romantic,2,2,80,5,3
+U0210,L0033,Boston,business,1,14,2100,3,9
+U0012,L0540,Miami,group,4,10,1530,4,7
+U0025,L0079,New York,group,5,4,556,5,4
+U0126,L0065,San Francisco,romantic,2,4,1152,1,12
+U0149,L0407,San Francisco,romantic,1,1,171,3,12
+U0127,L0553,Chicago,leisure,2,3,882,5,10
+U0160,L0150,Boston,leisure,1,1,90,5,3
+U0191,L0233,New York,group,3,4,476,5,5
+U0085,L0286,Boston,business,1,5,1335,5,10
+U0076,L0241,San Francisco,leisure,1,4,456,5,11
+U0116,L0272,Miami,leisure,1,5,1310,4,11
+U0230,L0098,New York,group,6,1,219,5,8
+U0141,L0151,San Francisco,leisure,1,5,290,5,2
+U0173,L0364,Chicago,business,1,4,380,5,11
+U0212,L0304,Boston,leisure,2,2,166,4,2
+U0139,L0095,Miami,group,1,1,114,3,11
+U0132,L0134,Chicago,leisure,2,10,400,3,10
+U0080,L0047,New York,leisure,2,1,77,5,4
+U0146,L0533,Chicago,group,6,2,326,4,3
+U0067,L0518,Boston,leisure,3,4,720,5,4
+U0033,L0538,Chicago,leisure,2,2,546,5,7
+U0088,L0586,San Francisco,business,1,14,3752,5,2
+U0026,L0310,New York,leisure,2,7,1932,4,3
+U0111,L0597,Chicago,romantic,2,7,987,5,8
+U0047,L0361,San Francisco,leisure,2,2,306,5,11
+U0101,L0380,Miami,group,6,4,292,5,9
+U0076,L0132,New York,leisure,1,2,126,5,2
+U0006,L0499,Chicago,leisure,2,2,268,1,10
+U0108,L0562,San Francisco,leisure,1,10,1650,5,7
+U0197,L0423,San Francisco,leisure,1,7,658,5,12
+U0082,L0330,Chicago,leisure,1,4,688,4,3
+U0019,L0095,Miami,family,4,3,342,5,3
+U0038,L0406,San Francisco,leisure,1,3,810,5,5
+U0234,L0366,New York,family,1,5,680,5,9
+U0075,L0034,Miami,business,2,3,648,4,3
+U0024,L0380,Miami,business,1,4,292,5,4
+U0114,L0564,Boston,family,1,1,126,5,12
+U0237,L0236,Chicago,group,6,5,1090,4,11
+U0057,L0591,Miami,business,1,7,770,5,1
+U0029,L0094,Chicago,leisure,1,7,1820,5,12
+U0174,L0403,Chicago,group,2,10,1420,3,4
+U0193,L0348,New York,group,2,4,432,4,12
+U0139,L0573,Boston,leisure,1,5,1340,5,1
+U0219,L0313,San Francisco,leisure,2,4,692,4,3
+U0007,L0328,New York,leisure,3,10,820,4,4
+U0038,L0332,San Francisco,leisure,1,5,670,3,6
+U0013,L0056,New York,romantic,2,2,596,4,6
+U0202,L0343,New York,group,7,7,812,4,10
+U0164,L0228,New York,family,4,2,588,3,4
+U0017,L0343,New York,family,4,7,812,4,4
+U0134,L0070,Miami,leisure,2,2,352,5,6
+U0091,L0225,Boston,family,3,1,215,5,9
+U0239,L0228,New York,group,4,3,882,5,1
+U0024,L0017,Chicago,leisure,1,2,188,5,10
+U0135,L0408,Boston,family,5,5,590,4,7
+U0109,L0280,Chicago,leisure,2,2,322,5,8
+U0092,L0470,Chicago,group,4,3,423,5,8
+U0223,L0263,San Francisco,business,3,7,2338,4,4
+U0066,L0379,San Francisco,romantic,2,1,271,4,9
+U0095,L0200,New York,romantic,3,14,3696,5,3
+U0073,L0490,Boston,romantic,2,4,1064,3,9
+U0012,L0237,Miami,group,6,3,720,4,8
+U0155,L0508,New York,family,4,7,2107,4,6
+U0053,L0445,San Francisco,leisure,3,2,260,5,11
+U0057,L0052,San Francisco,business,1,4,300,5,3
+U0224,L0599,New York,business,2,2,202,3,8
+U0210,L0015,Boston,business,1,3,288,5,11
+U0117,L0485,Boston,romantic,2,7,560,5,8
+U0236,L0084,New York,family,3,7,770,5,12
+U0188,L0407,San Francisco,leisure,1,10,1710,4,8
+U0233,L0053,San Francisco,business,1,1,225,3,5
+U0173,L0141,Chicago,business,1,7,1022,5,12
+U0170,L0362,New York,romantic,1,1,107,5,11
+U0149,L0481,San Francisco,business,1,2,128,4,7
+U0104,L0204,Miami,leisure,3,1,284,5,4
+U0050,L0189,Miami,business,1,1,278,5,5
+U0242,L0482,Boston,group,5,3,447,5,10
+U0052,L0105,Boston,business,5,7,1449,5,12
+U0004,L0242,Chicago,family,4,4,384,5,2
+U0086,L0587,San Francisco,group,4,2,112,5,1
+U0018,L0116,New York,business,1,3,867,2,6
+U0144,L0126,New York,group,2,4,1680,5,9
+U0236,L0199,Boston,family,3,2,136,5,2
+U0154,L0334,Boston,leisure,2,4,940,5,7
+U0063,L0275,Chicago,family,3,14,3038,4,3
+U0006,L0366,New York,leisure,2,4,544,5,3
+U0200,L0198,Boston,group,6,3,576,4,12
+U0128,L0002,San Francisco,business,1,1,92,2,9
+U0101,L0267,New York,group,5,4,644,4,10
+U0007,L0281,New York,group,3,2,200,5,7
+U0245,L0504,Boston,business,2,1,216,5,7
+U0217,L0244,Boston,leisure,1,4,424,5,1
+U0015,L0023,Chicago,romantic,3,3,507,5,8
+U0134,L0002,San Francisco,leisure,2,7,644,4,9
+U0165,L0202,Boston,leisure,3,4,160,4,3
+U0160,L0474,Chicago,leisure,1,5,1395,2,11
+U0114,L0077,Chicago,leisure,1,2,274,4,9
+U0202,L0156,Boston,group,7,4,680,4,5
+U0200,L0486,Boston,family,6,14,896,5,2
+U0213,L0036,New York,business,1,14,2534,5,10
+U0111,L0134,Chicago,romantic,2,4,160,5,2
+U0143,L0085,Miami,business,1,5,1240,3,8
+U0105,L0496,San Francisco,romantic,2,1,221,5,7
+U0123,L0371,New York,group,7,3,672,4,4
+U0105,L0368,Miami,romantic,1,3,606,5,12
+U0168,L0523,Boston,business,2,5,1310,4,3
+U0048,L0522,Boston,business,2,3,1095,5,12
+U0177,L0498,Chicago,family,2,3,318,5,3
+U0141,L0530,Chicago,leisure,1,7,770,5,5
+U0149,L0355,San Francisco,business,2,4,372,3,8
+U0123,L0369,San Francisco,group,6,3,444,5,1
+U0141,L0242,Chicago,leisure,1,14,1344,5,12
+U0241,L0348,New York,leisure,1,2,216,5,9
+U0150,L0049,Miami,family,2,14,1820,3,6
+U0206,L0346,Miami,family,2,3,630,5,7
+U0011,L0466,Boston,business,2,3,657,2,5
+U0153,L0333,Boston,family,2,10,2440,5,1
+U0161,L0018,Miami,leisure,1,5,255,5,12
+U0225,L0468,New York,family,4,1,115,5,8
+U0071,L0046,New York,romantic,2,3,213,5,3
+U0059,L0427,Miami,business,1,2,408,3,3
+U0227,L0406,San Francisco,leisure,1,4,1080,1,3
+U0232,L0527,Miami,romantic,4,3,390,4,4
+U0121,L0024,San Francisco,leisure,1,4,936,4,5
+U0101,L0242,Chicago,family,5,10,960,5,12
+U0098,L0366,New York,leisure,1,5,680,4,4
+U0066,L0052,San Francisco,group,2,2,150,5,6
+U0238,L0479,Boston,group,4,5,1175,4,9
+U0190,L0514,San Francisco,leisure,1,3,378,4,8
+U0056,L0280,Chicago,romantic,1,7,1127,5,11
+U0208,L0281,New York,business,2,3,300,1,5
+U0063,L0573,Boston,family,3,4,1072,5,11
+U0213,L0205,Miami,leisure,3,2,348,5,12
+U0087,L0222,New York,business,1,1,286,5,6
+U0185,L0117,Chicago,business,1,3,537,4,1
+U0118,L0159,New York,group,1,10,630,5,12
+U0120,L0577,New York,family,2,3,777,3,11
+U0202,L0138,New York,group,6,4,1404,2,9
+U0090,L0038,Boston,business,1,4,504,5,6
+U0006,L0081,Chicago,business,2,3,429,4,10
+U0068,L0153,Boston,family,3,5,260,5,2
+U0205,L0081,Chicago,leisure,1,2,286,4,5
+U0223,L0288,San Francisco,family,4,2,610,5,7
+U0216,L0537,Boston,leisure,2,4,864,3,8
+U0058,L0485,Boston,leisure,1,5,400,4,5
+U0162,L0455,New York,leisure,2,7,1071,5,2
+U0021,L0231,San Francisco,business,1,3,870,4,12
+U0009,L0136,Miami,leisure,1,3,468,5,4
+U0064,L0340,San Francisco,family,2,1,257,5,6
+U0247,L0559,New York,family,1,5,375,5,3
+U0193,L0388,New York,romantic,2,2,210,3,3
+U0004,L0347,New York,business,4,4,392,3,4
+U0237,L0053,San Francisco,group,6,3,675,5,1
+U0183,L0498,Chicago,business,5,7,742,5,8
+U0059,L0133,New York,group,2,14,2562,4,9
+U0246,L0407,San Francisco,family,3,3,513,5,1
+U0038,L0227,San Francisco,business,2,3,693,4,3
+U0202,L0130,Boston,group,6,2,424,3,8
+U0097,L0455,New York,leisure,2,4,612,3,1
+U0192,L0241,San Francisco,business,5,2,228,3,4
+U0112,L0174,San Francisco,business,1,10,2710,3,11
+U0150,L0095,Miami,leisure,2,4,456,3,11
+U0150,L0465,Miami,family,1,4,472,4,8
+U0055,L0081,Chicago,family,2,7,1001,3,12
+U0129,L0508,New York,leisure,2,4,1204,4,7
+U0146,L0423,San Francisco,leisure,5,2,188,5,6
+U0036,L0335,Miami,leisure,2,1,220,5,12
+U0159,L0328,New York,romantic,1,7,574,3,1
+U0208,L0098,New York,business,2,5,1095,4,8
+U0143,L0155,Miami,business,1,5,1200,4,3
+U0153,L0272,Miami,leisure,1,3,786,4,5
+U0003,L0323,Boston,group,4,3,657,5,11
+U0018,L0559,New York,business,1,2,150,5,1
+U0020,L0529,Chicago,romantic,2,2,244,4,2
+U0063,L0244,Boston,family,2,1,106,5,2
+U0061,L0401,New York,romantic,3,2,146,5,12
+U0051,L0545,New York,romantic,2,3,189,3,7
+U0216,L0395,New York,leisure,2,4,344,5,4
+U0189,L0015,Boston,romantic,2,3,288,5,8
+U0048,L0044,Boston,business,1,3,786,3,1
+U0248,L0032,New York,group,5,3,429,4,1
+U0204,L0346,Miami,group,4,7,1470,4,1
+U0136,L0590,Chicago,group,1,2,182,5,11
+U0078,L0242,Chicago,romantic,2,3,288,5,6
+U0100,L0124,Chicago,business,1,3,318,5,12
+U0176,L0292,Chicago,family,5,3,927,3,6
+U0103,L0428,Miami,group,1,5,535,4,1
+U0096,L0135,Boston,group,1,3,666,4,12
+U0074,L0132,New York,leisure,1,5,315,4,11
+U0098,L0336,San Francisco,leisure,1,5,865,5,4
+U0187,L0204,Miami,romantic,1,14,3976,3,11
+U0077,L0091,Miami,romantic,3,3,531,4,7
+U0137,L0573,Boston,family,4,10,2680,4,7
+U0081,L0391,San Francisco,business,1,3,975,5,4
+U0097,L0008,Boston,leisure,2,1,238,5,11
+U0059,L0163,Miami,business,1,4,940,3,12
+U0244,L0490,Boston,leisure,2,14,3724,5,8
+U0240,L0237,Miami,group,6,4,960,4,1
+U0097,L0419,Boston,leisure,2,1,249,5,3
+U0072,L0388,New York,business,2,2,210,3,7
+U0167,L0408,Boston,romantic,3,3,354,4,11
+U0065,L0191,Miami,family,4,4,1028,4,3
+U0239,L0356,New York,family,4,2,418,4,6
+U0133,L0410,Chicago,leisure,1,3,792,3,2
+U0127,L0600,Chicago,romantic,2,4,704,5,2
+U0105,L0064,Miami,family,2,2,594,5,3
+U0191,L0070,Miami,group,4,3,528,4,9
+U0130,L0486,Boston,group,2,7,448,4,10
+U0014,L0111,Boston,leisure,1,4,160,3,8
+U0020,L0534,Miami,romantic,1,3,396,5,7
+U0057,L0507,Boston,business,1,10,1230,5,10
+U0221,L0253,San Francisco,leisure,2,4,572,5,1
+U0063,L0111,Boston,family,3,4,160,5,9
+U0058,L0277,Boston,leisure,2,10,640,5,10
+U0141,L0129,New York,group,1,3,456,4,3
+U0234,L0281,New York,leisure,2,2,200,5,12
+U0190,L0433,Chicago,family,1,7,1652,3,7
+U0230,L0598,Boston,group,6,2,204,5,7
+U0208,L0526,New York,business,1,3,777,4,5
+U0026,L0161,Chicago,leisure,1,3,381,3,10
+U0063,L0521,Boston,family,3,7,1379,5,10
+U0012,L0456,Miami,group,5,4,724,4,3
+U0162,L0584,San Francisco,leisure,2,1,209,5,12
+U0028,L0211,Boston,romantic,2,3,474,5,9
+U0017,L0176,New York,family,4,2,192,5,8
+U0008,L0113,New York,leisure,2,2,258,5,5
+U0034,L0323,Boston,business,1,1,219,5,7
+U0173,L0582,Boston,leisure,2,2,232,4,2
+U0167,L0329,San Francisco,romantic,2,2,292,5,3
+U0172,L0084,New York,family,1,4,440,4,12
+U0154,L0504,Boston,leisure,3,3,648,5,7
+U0169,L0214,New York,group,7,3,633,4,5
+U0027,L0321,San Francisco,business,1,2,372,5,1
+U0082,L0178,San Francisco,leisure,2,3,270,4,1
+U0131,L0249,Boston,leisure,2,7,2037,5,11
+U0052,L0254,New York,family,4,4,940,4,1
+U0163,L0308,Boston,romantic,2,3,393,4,10
+U0045,L0239,Chicago,leisure,2,2,354,5,2
+U0214,L0541,Boston,leisure,1,3,489,5,10
+U0204,L0487,New York,group,4,3,897,4,5
+U0001,L0515,Chicago,leisure,2,2,366,5,4
+U0207,L0303,Chicago,leisure,2,3,972,4,8
+U0095,L0577,New York,romantic,1,3,777,4,9
+U0112,L0547,San Francisco,business,1,2,322,4,10
+U0242,L0203,Boston,group,4,3,630,4,10
+U0221,L0429,San Francisco,family,2,4,1056,5,5
+U0226,L0588,Miami,business,2,4,896,1,7
+U0073,L0411,Boston,romantic,2,4,776,5,1
+U0067,L0485,Boston,group,2,3,240,1,5
+U0035,L0298,Boston,leisure,2,2,418,4,11
+U0103,L0424,Chicago,leisure,2,14,1624,4,10
+U0067,L0277,Boston,leisure,2,5,320,5,10
+U0014,L0157,Boston,leisure,1,4,556,5,9
+U0067,L0091,Miami,leisure,2,3,531,5,12
+U0084,L0238,Miami,business,1,1,105,5,11
+U0025,L0558,Boston,business,4,2,260,5,5
+U0178,L0226,New York,family,5,4,836,5,6
+U0005,L0313,San Francisco,business,1,5,865,1,7
+U0220,L0314,Boston,family,4,3,624,2,9
+U0112,L0533,Chicago,romantic,1,5,815,5,5
+U0246,L0109,San Francisco,family,3,3,840,5,9
+U0083,L0273,Miami,family,3,5,695,5,2
+U0162,L0594,San Francisco,leisure,2,2,80,5,9
+U0223,L0311,San Francisco,family,2,2,736,5,1
+U0198,L0185,San Francisco,leisure,1,3,462,5,10
+U0167,L0589,Boston,business,2,2,296,5,8
+U0090,L0519,Boston,business,1,3,222,5,3
+U0014,L0238,Miami,leisure,2,2,210,5,5
+U0104,L0393,Chicago,leisure,1,3,795,5,9
+U0019,L0108,Boston,family,4,2,330,4,8
+U0183,L0348,New York,family,5,7,756,5,6
+U0119,L0337,New York,business,1,2,512,4,7
+U0114,L0533,Chicago,group,1,1,163,5,8
+U0068,L0329,San Francisco,group,3,4,584,5,3
+U0151,L0211,Boston,leisure,1,3,474,5,4
+U0122,L0507,Boston,business,1,4,492,4,1
+U0246,L0307,Miami,family,3,3,621,4,5
+U0023,L0362,New York,family,6,5,535,5,10
+U0015,L0348,New York,family,2,7,756,5,6
+U0186,L0138,New York,business,2,5,1755,5,6
+U0168,L0281,New York,business,1,2,200,5,7
+U0009,L0002,San Francisco,leisure,2,7,644,2,12
+U0021,L0491,San Francisco,family,1,2,166,4,2
+U0021,L0292,Chicago,leisure,1,4,1236,5,9
+U0027,L0407,San Francisco,family,1,2,342,5,7
+U0020,L0295,Miami,romantic,2,3,402,4,9
+U0125,L0581,San Francisco,leisure,2,3,372,5,9
+U0227,L0481,San Francisco,leisure,1,1,64,4,6
+U0154,L0328,New York,business,2,4,328,3,1
+U0187,L0527,Miami,leisure,1,2,260,4,6
+U0072,L0439,Boston,business,1,3,552,4,1
+U0091,L0108,Boston,family,3,3,495,4,8
+U0223,L0381,San Francisco,family,4,4,716,3,6
+U0043,L0385,Boston,family,3,7,1043,5,10
+U0068,L0046,New York,family,3,10,710,5,9
+U0124,L0065,San Francisco,group,6,3,864,5,7
+U0080,L0527,Miami,family,1,3,390,4,9
+U0173,L0104,Chicago,business,1,3,477,4,6
+U0137,L0182,San Francisco,family,4,14,3486,5,12
+U0031,L0454,San Francisco,leisure,7,3,654,5,9
+U0078,L0563,Boston,romantic,3,5,705,3,7
+U0085,L0333,Boston,business,1,7,1708,5,6
+U0195,L0124,Chicago,leisure,1,3,318,5,5
+U0137,L0062,Chicago,family,3,3,747,5,4
+U0246,L0241,San Francisco,family,4,7,798,4,3
+U0080,L0556,New York,leisure,2,4,636,4,1
+U0216,L0133,New York,leisure,2,1,183,4,5
+U0024,L0581,San Francisco,leisure,1,3,372,4,6
+U0051,L0268,New York,family,1,2,166,4,8
+U0113,L0517,New York,group,6,5,865,5,6
+U0158,L0489,New York,business,1,5,1430,4,4
+U0192,L0299,San Francisco,group,6,2,210,5,2
+U0037,L0591,Miami,business,1,7,770,5,7
+U0079,L0546,Chicago,romantic,1,7,1043,2,12
+U0158,L0047,New York,group,1,7,539,5,3
+U0171,L0577,New York,leisure,2,2,518,5,3
+U0039,L0325,Miami,group,4,10,1040,4,10
+U0146,L0016,Boston,group,5,3,513,5,12
+U0001,L0438,Chicago,leisure,2,2,374,5,8
+U0034,L0420,Chicago,romantic,1,3,915,5,1
+U0246,L0348,New York,family,3,10,1080,4,12
+U0033,L0136,Miami,leisure,2,4,624,5,2
+U0076,L0565,Boston,leisure,1,7,322,4,11
+U0243,L0024,San Francisco,leisure,2,7,1638,2,3
+U0068,L0297,New York,family,3,7,1253,5,12
+U0156,L0556,New York,leisure,2,4,636,4,12
+U0150,L0451,Miami,leisure,1,3,498,5,7
+U0085,L0369,San Francisco,business,2,7,1036,4,9
+U0238,L0546,Chicago,group,5,7,1043,4,10
+U0213,L0175,New York,leisure,2,3,291,5,3
+U0216,L0069,New York,leisure,1,5,1025,5,5
+U0124,L0524,San Francisco,group,7,5,1380,5,10
+U0004,L0017,Chicago,family,6,2,188,3,10
+U0205,L0299,San Francisco,leisure,1,4,420,5,2
+U0151,L0167,New York,leisure,1,3,786,5,4
+U0079,L0429,San Francisco,business,1,2,528,4,8
+U0056,L0560,Miami,romantic,2,3,387,4,8
+U0003,L0581,San Francisco,group,4,3,372,5,6
+U0098,L0507,Boston,leisure,2,7,861,4,11
+U0048,L0197,Boston,leisure,2,5,530,5,4
+U0040,L0253,San Francisco,family,3,1,143,5,9
+U0187,L0279,Miami,leisure,1,3,894,4,10
+U0243,L0313,San Francisco,family,3,7,1211,4,6
+U0213,L0237,Miami,leisure,1,2,480,4,8
+U0083,L0406,San Francisco,romantic,2,4,1080,5,9
+U0182,L0186,Boston,family,3,1,134,5,7
+U0176,L0519,Boston,leisure,5,3,222,5,10
+U0127,L0215,Chicago,leisure,2,2,284,5,2
+U0197,L0407,San Francisco,leisure,2,3,513,3,10
+U0110,L0559,New York,business,1,1,75,5,6
+U0189,L0127,Boston,leisure,1,1,137,3,12
+U0084,L0118,Boston,business,2,10,2270,3,12
+U0056,L0529,Chicago,romantic,1,4,488,5,10
+U0161,L0184,Miami,group,1,3,456,5,5
+U0003,L0385,Boston,business,4,4,596,3,12
+U0062,L0547,San Francisco,group,5,3,483,5,6
+U0067,L0016,Boston,leisure,3,3,513,5,7
+U0125,L0451,Miami,leisure,2,5,830,5,12
+U0053,L0336,San Francisco,leisure,2,4,692,3,12
+U0136,L0397,San Francisco,leisure,2,3,255,5,6
+U0189,L0078,Boston,business,3,7,1162,5,4
+U0221,L0406,San Francisco,leisure,1,3,810,5,3
+U0099,L0144,Chicago,family,4,2,500,5,5
+U0074,L0005,Chicago,romantic,1,3,840,5,2
+U0171,L0533,Chicago,leisure,1,4,652,3,8
+U0096,L0108,Boston,business,1,4,660,5,10
+U0200,L0135,Boston,group,7,4,888,4,3
+U0134,L0333,Boston,leisure,2,5,1220,4,8
+U0114,L0256,Chicago,leisure,1,5,510,5,6
+U0084,L0428,Miami,business,1,2,214,5,4
+U0197,L0481,San Francisco,group,1,4,256,3,3
+U0186,L0353,New York,romantic,1,2,548,5,12
+U0062,L0166,San Francisco,group,4,3,315,4,1
+U0170,L0084,New York,business,1,10,1100,5,5
+U0158,L0476,Boston,business,2,1,211,5,8
+U0035,L0235,Chicago,leisure,1,3,321,5,4
+U0088,L0493,Miami,business,1,4,744,4,11
+U0096,L0439,Boston,group,1,4,736,4,6
+U0090,L0590,Chicago,family,1,14,1274,4,6
+U0238,L0499,Chicago,group,4,3,402,2,11
+U0164,L0130,Boston,family,4,3,636,4,1
+U0077,L0091,Miami,romantic,1,2,354,5,5
+U0187,L0364,Chicago,leisure,1,5,475,5,2
+U0143,L0208,Chicago,business,1,4,964,5,8
+U0241,L0428,Miami,leisure,1,1,107,5,2
+U0005,L0211,Boston,leisure,1,4,632,2,12
+U0010,L0384,Miami,leisure,2,5,1000,4,7
+U0180,L0216,Chicago,business,4,3,120,3,12
+U0205,L0218,New York,romantic,1,4,488,5,7
+U0174,L0134,Chicago,leisure,2,5,200,5,12
+U0135,L0366,New York,family,4,1,136,3,5
+U0200,L0145,Boston,group,6,2,490,4,10
+U0002,L0211,Boston,business,1,1,158,5,11
+U0080,L0304,Boston,leisure,2,3,249,5,12
+U0198,L0464,Miami,family,2,5,310,5,1
+U0051,L0517,New York,family,2,1,173,5,6
+U0144,L0569,Miami,business,2,1,180,4,4
+U0230,L0162,Chicago,group,7,5,1160,5,9
+U0100,L0480,Chicago,business,1,2,190,5,3
+U0020,L0179,Miami,romantic,1,3,291,4,10
+U0126,L0438,Chicago,romantic,3,7,1309,3,5
+U0101,L0423,San Francisco,group,6,14,1316,5,12
+U0055,L0516,New York,leisure,4,7,1281,4,2
+U0205,L0529,Chicago,leisure,1,7,854,5,7
+U0236,L0403,Chicago,family,3,14,1988,5,9
+U0212,L0081,Chicago,romantic,3,4,572,4,5
+U0200,L0523,Boston,family,6,7,1834,5,11
+U0035,L0030,Chicago,leisure,1,2,226,5,5
+U0250,L0114,Boston,leisure,2,2,364,4,1
+U0051,L0481,San Francisco,leisure,2,7,448,4,1
+U0188,L0464,Miami,business,2,4,248,4,7
+U0037,L0002,San Francisco,business,1,3,276,5,11
+U0107,L0083,Boston,group,6,3,630,2,7
+U0144,L0164,Chicago,leisure,1,2,400,4,4
+U0227,L0249,Boston,family,2,7,2037,5,7
+U0120,L0437,New York,leisure,2,4,1036,4,10
+U0175,L0531,Boston,leisure,3,10,1230,5,12
+U0182,L0194,New York,leisure,1,2,80,4,12
+U0247,L0484,Boston,family,2,1,200,5,10
+U0026,L0422,Chicago,romantic,2,2,526,4,3
+U0031,L0067,Boston,group,6,4,192,5,6
+U0244,L0532,Boston,leisure,1,1,263,4,9
+U0182,L0221,Boston,leisure,3,5,370,5,4
+U0051,L0562,San Francisco,leisure,3,2,330,5,11
+U0022,L0281,New York,business,1,3,300,5,8
+U0080,L0233,New York,leisure,2,3,357,4,2
+U0007,L0267,New York,group,5,1,161,5,4
+U0049,L0237,Miami,leisure,1,3,720,5,10
+U0149,L0153,Boston,business,1,3,156,5,8
+U0238,L0364,Chicago,group,5,4,380,4,8
+U0233,L0396,San Francisco,romantic,1,3,615,3,6
+U0024,L0423,San Francisco,leisure,2,7,658,5,6
+U0054,L0220,Chicago,group,5,4,1016,3,8
+U0119,L0037,Miami,business,2,1,158,4,12
+U0117,L0078,Boston,leisure,2,4,664,5,4
+U0046,L0507,Boston,leisure,2,5,615,5,5
+U0223,L0514,San Francisco,leisure,4,1,126,5,5
+U0180,L0238,Miami,romantic,4,7,735,5,6
+U0217,L0308,Boston,family,3,1,131,5,12
+U0228,L0408,Boston,leisure,2,3,354,3,10
+U0122,L0536,Boston,business,1,3,720,5,8
+U0039,L0354,New York,group,4,2,242,4,9
+U0087,L0405,New York,business,2,1,144,4,5
+U0245,L0334,Boston,romantic,2,7,1645,5,7
+U0186,L0104,Chicago,romantic,1,10,1590,5,4
+U0133,L0239,Chicago,business,1,5,885,5,8
+U0228,L0518,Boston,leisure,3,3,540,2,10
+U0229,L0244,Boston,family,3,2,212,5,2
+U0172,L0267,New York,leisure,2,5,805,5,10
+U0108,L0063,San Francisco,leisure,2,3,288,5,5
+U0052,L0159,New York,family,4,4,252,5,4
+U0158,L0150,Boston,leisure,1,2,180,4,10
+U0250,L0271,Boston,leisure,2,4,956,1,4
+U0088,L0261,Miami,business,1,3,465,3,9
+U0088,L0465,Miami,business,1,7,826,2,5
+U0136,L0235,Chicago,business,1,2,214,5,2
+U0247,L0518,Boston,business,1,5,900,5,6
+U0090,L0334,Boston,romantic,1,7,1645,4,3
+U0094,L0046,New York,group,7,3,213,5,11
+U0246,L0341,San Francisco,family,4,1,293,4,3
+U0044,L0056,New York,group,6,10,2980,2,9
+U0103,L0507,Boston,leisure,1,5,615,5,10
+U0135,L0458,Boston,family,4,3,333,5,3
+U0207,L0215,Chicago,romantic,3,5,710,4,7
+U0080,L0347,New York,leisure,3,1,98,4,9
+U0002,L0038,Boston,business,1,3,378,5,5
+U0087,L0044,Boston,leisure,1,2,524,4,12
+U0228,L0197,Boston,leisure,3,3,318,4,8
+U0159,L0533,Chicago,romantic,2,1,163,5,3
+U0224,L0389,New York,business,1,5,660,5,11
+U0175,L0269,San Francisco,romantic,1,2,488,3,8
+U0137,L0285,San Francisco,business,3,5,1185,5,10
+U0248,L0366,New York,group,5,2,272,4,9
+U0182,L0037,Miami,leisure,3,5,790,5,3
+U0059,L0335,Miami,business,2,1,220,5,12
+U0026,L0004,Miami,leisure,2,1,175,2,8
+U0156,L0465,Miami,leisure,2,2,236,5,3
+U0012,L0352,Miami,group,5,2,534,5,4
+U0181,L0412,New York,leisure,2,3,831,1,8
+U0150,L0179,Miami,leisure,2,4,388,3,6
+U0208,L0337,New York,business,1,7,1792,5,5
+U0154,L0038,Boston,romantic,2,10,1260,5,12
+U0220,L0591,Miami,family,4,14,1540,5,4
+U0150,L0380,Miami,leisure,3,2,146,5,4
+U0178,L0194,New York,romantic,4,4,160,5,4
+U0195,L0464,Miami,family,1,5,310,5,4
+U0163,L0480,Chicago,romantic,2,7,665,5,9
+U0127,L0239,Chicago,family,2,3,531,3,9
+U0222,L0129,New York,business,4,4,608,5,9
+U0166,L0187,Boston,leisure,1,2,314,5,12
+U0013,L0441,New York,romantic,2,1,167,5,7
+U0033,L0122,Miami,business,2,3,657,5,6
+U0067,L0194,New York,leisure,1,3,120,5,12
+U0246,L0492,San Francisco,family,3,14,3906,5,8
+U0062,L0166,San Francisco,group,5,5,525,4,2
+U0067,L0202,Boston,leisure,1,3,120,5,11
+U0017,L0113,New York,family,4,10,1290,5,10
+U0136,L0423,San Francisco,leisure,1,7,658,4,11
+U0196,L0359,San Francisco,leisure,1,4,384,5,2
+U0091,L0044,Boston,business,3,5,1310,4,8
+U0187,L0230,Miami,leisure,2,1,248,5,1
+U0148,L0115,San Francisco,family,4,3,498,5,5
+U0038,L0400,San Francisco,leisure,1,2,552,5,11
+U0241,L0287,Miami,leisure,1,2,322,4,10
+U0037,L0599,New York,family,2,3,303,5,4
+U0160,L0212,San Francisco,leisure,1,4,432,4,4
+U0190,L0121,Chicago,leisure,1,5,1270,5,9
+U0178,L0274,New York,leisure,4,2,562,5,4
+U0006,L0186,Boston,business,1,3,402,5,3
+U0059,L0064,Miami,family,1,7,2079,4,11
+U0146,L0205,Miami,group,6,5,870,5,6
+U0012,L0045,Miami,family,4,3,630,3,1
+U0125,L0324,San Francisco,leisure,3,3,720,5,5
+U0163,L0222,New York,family,2,2,572,5,7
+U0079,L0446,San Francisco,business,1,4,992,4,3
+U0083,L0513,Chicago,leisure,3,7,910,5,2
+U0217,L0504,Boston,leisure,2,14,3024,4,12
+U0177,L0161,Chicago,leisure,2,10,1270,5,2
+U0086,L0590,Chicago,group,5,3,273,5,7
+U0205,L0388,New York,leisure,1,4,420,3,1
+U0216,L0579,New York,leisure,3,3,750,5,11
+U0094,L0261,Miami,romantic,6,3,465,1,2
+U0081,L0110,San Francisco,business,2,1,395,5,6
+U0171,L0450,San Francisco,leisure,1,3,612,5,12
+U0247,L0366,New York,business,1,1,136,5,2
+U0235,L0590,Chicago,leisure,1,3,273,3,10
+U0039,L0388,New York,group,4,3,315,5,1
+U0072,L0464,Miami,business,1,2,124,5,7
+U0248,L0559,New York,group,5,3,225,4,7
+U0239,L0219,Chicago,group,4,4,972,5,9
+U0138,L0527,Miami,family,3,2,260,2,12
+U0125,L0002,San Francisco,leisure,2,5,460,5,8
+U0040,L0331,Chicago,family,4,2,212,4,4
+U0187,L0395,New York,leisure,2,2,172,5,10
+U0150,L0581,San Francisco,leisure,2,3,372,5,10
+U0141,L0445,San Francisco,leisure,2,7,910,4,1
+U0242,L0334,Boston,group,6,3,705,4,6
+U0196,L0071,San Francisco,leisure,1,1,274,4,11
+U0156,L0146,Miami,group,1,14,3444,4,11
+U0168,L0425,Boston,leisure,1,10,2320,1,9
+U0214,L0237,Miami,romantic,2,5,1200,4,4
+U0005,L0064,Miami,business,2,3,891,5,3
+U0215,L0332,San Francisco,romantic,1,2,268,5,3
+U0068,L0221,Boston,family,2,14,1036,4,6
+U0076,L0047,New York,leisure,2,3,231,5,10
+U0236,L0486,Boston,family,4,7,448,4,9
+U0123,L0336,San Francisco,group,6,1,173,4,4
+U0135,L0517,New York,family,4,1,173,2,6
+U0041,L0141,Chicago,family,1,14,2044,5,8
+U0146,L0477,New York,group,6,3,483,5,3
+U0132,L0412,New York,leisure,2,2,554,3,3
+U0038,L0379,San Francisco,leisure,1,5,1355,5,3
+U0064,L0195,San Francisco,leisure,2,7,1400,4,8
+U0219,L0159,New York,leisure,1,3,189,5,5
+U0027,L0521,Boston,business,1,7,1379,5,7
+U0104,L0469,Chicago,leisure,3,3,792,3,3
+U0125,L0285,San Francisco,leisure,3,5,1185,5,9
+U0098,L0070,Miami,leisure,2,3,528,5,5
+U0078,L0012,Chicago,romantic,3,2,162,5,3
+U0065,L0270,Miami,business,4,2,380,3,2
+U0077,L0252,Miami,group,1,10,1560,5,12
+U0040,L0381,San Francisco,leisure,4,4,716,5,4
+U0172,L0233,New York,leisure,2,1,119,4,10
+U0214,L0435,New York,romantic,3,7,1701,5,3
+U0228,L0415,Boston,family,1,3,189,5,1
+U0057,L0213,San Francisco,business,1,1,125,5,9
+U0163,L0006,Chicago,romantic,2,10,2140,4,3
+U0081,L0279,Miami,business,1,7,2086,5,1
+U0129,L0001,New York,leisure,2,4,1120,4,8
+U0026,L0377,Chicago,leisure,1,3,300,4,5
+U0208,L0189,Miami,romantic,1,3,834,3,11
+U0121,L0274,New York,business,1,5,1405,2,5
+U0067,L0498,Chicago,leisure,2,10,1060,5,4
+U0156,L0150,Boston,leisure,1,3,270,5,3
+U0209,L0197,Boston,family,4,1,106,5,7
+U0195,L0178,San Francisco,leisure,1,10,900,5,8
+U0237,L0108,Boston,group,7,4,660,2,10
+U0104,L0317,San Francisco,leisure,1,5,1095,4,7
+U0239,L0047,New York,group,4,2,154,4,10
+U0077,L0569,Miami,romantic,3,7,1260,5,2
+U0120,L0487,New York,leisure,1,2,598,5,8
+U0205,L0061,New York,business,1,3,372,5,6
+U0147,L0134,Chicago,romantic,3,7,280,5,2
+U0029,L0344,New York,leisure,1,2,148,5,1
+U0072,L0114,Boston,business,1,10,1820,4,6
+U0218,L0532,Boston,leisure,2,2,526,4,5
+U0170,L0309,Miami,business,1,3,396,4,8
+U0199,L0253,San Francisco,leisure,1,5,715,4,10
+U0178,L0104,Chicago,family,4,3,477,4,12
+U0029,L0331,Chicago,leisure,1,4,424,5,4
+U0247,L0197,Boston,business,2,5,530,5,8
+U0184,L0148,Boston,group,1,5,550,5,6
+U0249,L0104,Chicago,leisure,2,7,1113,5,11
+U0024,L0049,Miami,leisure,1,14,1820,5,2
+U0230,L0240,Chicago,group,6,3,765,2,9
+U0165,L0153,Boston,leisure,1,7,364,5,7
+U0035,L0242,Chicago,leisure,1,4,384,5,5
+U0101,L0238,Miami,group,5,7,735,5,2
+U0241,L0306,Miami,group,1,3,171,1,5
+U0170,L0556,New York,business,1,7,1113,3,7
+U0245,L0108,Boston,leisure,2,3,495,3,1
+U0160,L0034,Miami,leisure,1,1,216,5,2
+U0210,L0067,Boston,business,2,3,144,5,5
+U0202,L0534,Miami,group,5,5,660,5,4
+U0001,L0553,Chicago,group,2,4,1176,3,11
+U0249,L0486,Boston,leisure,3,4,256,5,7
+U0123,L0528,San Francisco,group,6,10,2360,3,9
+U0032,L0573,Boston,family,3,10,2680,5,6
+U0249,L0277,Boston,group,3,1,64,3,3
+U0225,L0345,New York,romantic,5,2,274,3,2
+U0124,L0483,Chicago,group,5,4,612,5,3
+U0049,L0560,Miami,leisure,1,2,258,5,9
+U0049,L0449,Miami,romantic,1,4,768,3,1
+U0215,L0195,San Francisco,business,2,5,1000,5,6
+U0036,L0101,Chicago,leisure,1,7,1162,5,2
+U0045,L0455,New York,leisure,3,2,306,5,10
+U0083,L0207,Boston,leisure,2,3,612,5,5
+U0078,L0186,Boston,romantic,3,5,670,4,7
+U0130,L0106,Boston,leisure,1,1,121,5,7
+U0066,L0454,San Francisco,romantic,1,3,654,4,6
+U0082,L0530,Chicago,romantic,1,4,440,5,8
+U0136,L0498,Chicago,leisure,1,1,106,5,1
+U0183,L0261,Miami,group,5,3,465,3,7
+U0186,L0072,New York,business,1,2,280,5,3
+U0160,L0520,San Francisco,leisure,1,4,1108,5,12
+U0117,L0134,Chicago,leisure,3,4,160,4,6
+U0196,L0430,San Francisco,leisure,1,14,3836,5,5
+U0175,L0067,Boston,leisure,2,3,144,4,1
+U0056,L0451,Miami,romantic,2,2,332,4,2
+U0027,L0429,San Francisco,business,1,2,528,5,1
+U0140,L0428,Miami,business,3,14,1498,2,3
+U0161,L0451,Miami,leisure,1,4,664,5,2
+U0011,L0404,Chicago,leisure,2,2,524,4,6
+U0196,L0219,Chicago,leisure,1,2,486,1,10
+U0115,L0162,Chicago,leisure,1,2,464,5,11
+U0184,L0498,Chicago,business,1,4,424,5,6
+U0017,L0592,New York,family,3,5,330,4,1
+U0245,L0049,Miami,romantic,3,1,130,3,5
+U0182,L0304,Boston,leisure,2,7,581,4,7
+U0003,L0150,Boston,group,4,2,180,2,1
+U0181,L0547,San Francisco,leisure,2,2,322,5,6
+U0207,L0074,Chicago,leisure,3,14,4228,5,1
+U0222,L0527,Miami,romantic,5,3,390,3,7
+U0215,L0009,San Francisco,romantic,2,2,384,5,5
+U0017,L0091,Miami,family,3,3,531,4,11
+U0140,L0309,Miami,leisure,2,4,528,3,7
+U0077,L0447,Miami,romantic,2,7,1057,4,5
+U0025,L0015,Boston,group,4,3,288,1,10
+U0147,L0064,Miami,leisure,2,5,1485,5,12
+U0085,L0486,Boston,business,2,2,128,4,1
+U0084,L0375,Miami,business,1,2,584,5,4
+U0090,L0526,New York,business,1,7,1813,4,12
+U0223,L0215,Chicago,family,3,1,142,3,3
+U0210,L0452,Boston,business,2,4,616,5,9
+U0138,L0047,New York,family,4,2,154,5,1
+U0249,L0157,Boston,group,1,10,1390,4,12
+U0195,L0077,Chicago,family,1,7,959,4,3
+U0156,L0232,Boston,leisure,1,14,3654,4,11
+U0188,L0174,San Francisco,leisure,2,1,271,5,8
+U0083,L0393,Chicago,leisure,2,4,1060,5,8
+U0152,L0038,Boston,family,4,5,630,5,8
+U0224,L0475,New York,leisure,2,7,1638,3,10
+U0229,L0472,Chicago,leisure,3,3,390,5,11
+U0238,L0093,Boston,group,4,5,1055,4,1
+U0002,L0323,Boston,business,2,3,657,5,11
+U0148,L0498,Chicago,romantic,4,5,530,1,7
+U0232,L0075,Miami,family,4,5,1285,5,10
+U0227,L0088,Chicago,romantic,1,3,744,5,4
+U0055,L0356,New York,family,3,5,1045,5,9
+U0094,L0498,Chicago,group,6,3,318,5,4
+U0249,L0261,Miami,leisure,1,1,155,5,8
+U0061,L0264,New York,family,2,4,296,5,6
+U0119,L0301,San Francisco,business,1,2,480,5,10
+U0232,L0091,Miami,family,4,3,531,5,5
+U0197,L0361,San Francisco,leisure,1,14,2142,3,4
+U0088,L0365,San Francisco,business,2,2,628,5,12
+U0014,L0518,Boston,leisure,2,5,900,5,6
+U0116,L0132,New York,leisure,2,10,630,5,2
+U0097,L0246,New York,leisure,1,14,1568,4,8
+U0216,L0060,Boston,leisure,2,14,2702,5,8
+U0246,L0547,San Francisco,family,2,4,644,4,8
+U0131,L0310,New York,family,4,4,1104,3,6
+U0073,L0211,Boston,romantic,3,3,474,5,6
+U0175,L0148,Boston,leisure,2,1,110,5,6
+U0051,L0299,San Francisco,leisure,1,3,315,5,5
+U0160,L0241,San Francisco,leisure,1,4,456,3,4
+U0069,L0045,Miami,leisure,1,2,420,5,10
+U0063,L0332,San Francisco,business,2,3,402,5,1
+U0106,L0161,Chicago,family,5,1,127,4,10
+U0071,L0095,Miami,romantic,3,5,570,3,2
+U0245,L0308,Boston,romantic,2,4,524,5,6
+U0008,L0344,New York,group,2,2,148,4,11
+U0182,L0381,San Francisco,leisure,2,2,358,4,11
+U0002,L0301,San Francisco,business,1,3,720,5,3
+U0249,L0565,Boston,leisure,3,3,138,1,10
+U0206,L0257,Boston,leisure,1,2,472,3,10
+U0186,L0442,San Francisco,business,1,7,1610,2,7
+U0145,L0520,San Francisco,romantic,5,14,3878,5,1
+U0048,L0173,Boston,leisure,1,1,185,4,2
+U0118,L0347,New York,business,1,4,392,5,6
+U0174,L0020,Chicago,leisure,2,1,151,5,10
+U0009,L0518,Boston,leisure,1,3,540,4,12
+U0019,L0148,Boston,group,4,4,440,5,12
+U0153,L0261,Miami,leisure,2,5,775,5,4
+U0007,L0117,Chicago,group,4,2,358,4,3
+U0131,L0348,New York,family,2,3,324,4,6
+U0074,L0209,Chicago,business,2,3,342,5,3
+U0016,L0116,New York,leisure,1,2,578,5,3
+U0108,L0023,Chicago,family,3,10,1690,4,10
+U0083,L0566,Chicago,romantic,1,2,398,4,11
+U0110,L0378,San Francisco,family,1,2,566,5,6
+U0119,L0402,New York,business,2,3,729,4,5
+U0004,L0533,Chicago,family,5,4,652,4,8
+U0199,L0070,Miami,business,1,2,352,5,3
+U0140,L0428,Miami,romantic,2,3,321,5,7
+U0176,L0184,Miami,family,4,2,304,2,2
+U0166,L0304,Boston,group,3,1,83,4,1
+U0204,L0412,New York,group,4,7,1939,5,10
+U0215,L0054,San Francisco,romantic,1,2,414,5,3
+U0195,L0097,San Francisco,family,1,4,976,4,7
+U0203,L0442,San Francisco,leisure,2,4,920,5,9
+U0006,L0012,Chicago,leisure,3,10,810,3,12
+U0176,L0556,New York,family,4,7,1113,4,11
+U0027,L0353,New York,business,1,7,1918,3,9
+U0149,L0308,Boston,business,1,4,524,5,7
+U0022,L0202,Boston,group,1,14,560,3,1
+U0174,L0081,Chicago,leisure,2,3,429,5,1
+U0096,L0211,Boston,business,1,4,632,5,12
+U0175,L0057,New York,leisure,2,1,90,5,6
+U0232,L0470,Chicago,family,4,3,423,5,11
+U0059,L0230,Miami,business,1,4,992,5,5
+U0213,L0152,San Francisco,leisure,2,3,444,5,11
+U0167,L0187,Boston,romantic,2,1,157,4,8
+U0075,L0532,Boston,business,1,5,1315,5,4
+U0118,L0597,Chicago,business,1,2,282,4,12
+U0147,L0290,Chicago,leisure,2,3,834,3,1
+U0215,L0317,San Francisco,family,3,3,657,3,11
+U0012,L0164,Chicago,group,5,4,800,4,5
+U0151,L0025,Chicago,leisure,1,2,438,5,3
+U0073,L0402,New York,romantic,3,3,729,4,10
+U0148,L0127,Boston,family,4,2,274,5,12
+U0152,L0075,Miami,group,4,1,257,5,12
+U0221,L0421,San Francisco,group,2,2,434,5,11
+U0187,L0160,Miami,leisure,2,7,1967,3,7
+U0031,L0182,San Francisco,business,6,1,249,5,12
+U0240,L0592,New York,group,6,1,66,4,5
+U0040,L0491,San Francisco,family,3,4,332,3,5
+U0140,L0424,Chicago,group,1,7,812,5,12
+U0157,L0093,Boston,leisure,1,7,1477,5,10
+U0187,L0295,Miami,leisure,1,3,402,1,8
+U0246,L0581,San Francisco,family,3,3,372,4,2
+U0068,L0354,New York,family,3,2,242,4,6
+U0205,L0159,New York,group,2,3,189,5,9
+U0167,L0467,Chicago,romantic,2,3,183,5,6
+U0132,L0259,Chicago,leisure,1,5,1625,5,2
+U0236,L0582,Boston,romantic,2,10,1160,5,12
+U0085,L0128,Miami,group,1,4,1064,4,5
+U0097,L0470,Chicago,leisure,2,1,141,4,5
+U0202,L0382,Miami,group,6,2,448,5,2
+U0236,L0397,San Francisco,business,2,4,340,4,8
+U0008,L0313,San Francisco,leisure,2,3,519,5,1
+U0034,L0399,Miami,romantic,2,10,2170,4,11
+U0046,L0041,Miami,leisure,2,3,819,5,8
+U0224,L0136,Miami,business,1,7,1092,5,4
+U0140,L0548,Miami,romantic,1,7,1239,5,7
+U0107,L0486,Boston,family,6,7,448,4,7
+U0097,L0343,New York,leisure,1,3,348,5,3
+U0161,L0117,Chicago,leisure,2,3,537,3,12
+U0139,L0374,Miami,group,1,1,308,5,7
+U0151,L0318,Chicago,leisure,1,5,1505,4,12
+U0216,L0228,New York,leisure,2,3,882,2,2
+U0172,L0449,Miami,leisure,1,2,384,5,2
+U0203,L0132,New York,leisure,2,2,126,4,7
+U0134,L0285,San Francisco,romantic,3,2,474,4,7
+U0035,L0422,Chicago,leisure,1,5,1315,5,9
+U0119,L0559,New York,romantic,1,2,150,1,9
+U0058,L0070,Miami,leisure,2,14,2464,1,4
+U0211,L0451,Miami,family,1,4,664,5,4
+U0088,L0221,Boston,romantic,1,14,1036,3,11
+U0183,L0233,New York,group,6,3,357,4,8
+U0056,L0101,Chicago,romantic,2,5,830,4,3
+U0141,L0423,San Francisco,family,1,10,940,2,12
+U0249,L0202,Boston,leisure,2,3,120,5,10
+U0204,L0580,New York,group,3,14,2940,5,7
+U0123,L0027,Chicago,group,6,3,606,5,7
+U0223,L0485,Boston,family,4,7,560,5,1
+U0077,L0514,San Francisco,romantic,2,4,504,5,12
+U0059,L0534,Miami,business,1,2,264,5,9
+U0155,L0346,Miami,family,3,3,630,5,3
+U0062,L0355,San Francisco,business,5,4,372,5,5
+U0009,L0016,Boston,leisure,1,4,684,5,3
+U0242,L0563,Boston,group,4,14,1974,5,4
+U0185,L0055,Miami,business,1,7,1757,4,6
+U0109,L0052,San Francisco,leisure,1,3,225,5,9
+U0173,L0096,Chicago,business,1,3,177,4,6
+U0104,L0081,Chicago,leisure,2,4,572,4,2
+U0082,L0594,San Francisco,leisure,2,3,120,5,11
+U0230,L0322,Boston,group,6,3,690,4,1
+U0229,L0261,Miami,family,2,4,620,4,8
+U0030,L0349,Miami,leisure,1,7,315,5,9
+U0058,L0132,New York,family,1,4,252,3,1
+U0242,L0479,Boston,group,4,5,1175,5,7
+U0167,L0067,Boston,romantic,2,4,192,5,8
+U0076,L0268,New York,leisure,1,2,166,5,8
+U0162,L0491,San Francisco,leisure,3,7,581,5,3
+U0077,L0582,Boston,romantic,1,3,348,5,3
+U0189,L0009,San Francisco,leisure,2,5,960,4,4
+U0075,L0591,Miami,business,1,5,550,5,9
+U0231,L0212,San Francisco,romantic,1,3,324,5,12
+U0007,L0364,Chicago,group,4,4,380,4,3
+U0084,L0014,Miami,business,1,1,214,5,4
+U0205,L0592,New York,leisure,1,14,924,4,8
+U0018,L0441,New York,business,1,5,835,5,7
+U0140,L0184,Miami,romantic,1,3,456,4,3
+U0007,L0077,Chicago,group,4,7,959,5,1
+U0024,L0217,Miami,leisure,2,4,1016,4,1
+U0143,L0404,Chicago,business,1,5,1310,5,6
+U0041,L0541,Boston,leisure,3,4,652,5,3
+U0018,L0202,Boston,business,1,3,120,5,8
+U0246,L0369,San Francisco,family,3,7,1036,5,12
+U0226,L0036,New York,business,2,10,1810,3,10
+U0024,L0597,Chicago,leisure,1,5,705,4,2
+U0062,L0016,Boston,group,5,5,855,5,10
+U0095,L0362,New York,romantic,2,1,107,5,6
+U0015,L0287,Miami,romantic,2,3,483,5,3
+U0058,L0244,Boston,leisure,1,5,530,4,11
+U0128,L0571,Chicago,leisure,1,1,68,5,12
+U0194,L0046,New York,leisure,2,14,994,5,4
+U0016,L0348,New York,leisure,1,1,108,4,10
+U0221,L0270,Miami,business,1,4,760,4,12
+U0119,L0362,New York,business,1,2,214,5,1
+U0149,L0067,Boston,business,1,2,96,2,3
+U0056,L0017,Chicago,romantic,2,5,470,4,5
+U0226,L0412,New York,business,1,3,831,4,8
+U0086,L0012,Chicago,group,5,7,567,5,9
+U0215,L0426,San Francisco,romantic,1,10,2530,5,4
+U0159,L0289,Chicago,group,2,5,435,5,4
+U0110,L0405,New York,business,1,10,1440,5,10
+U0216,L0153,Boston,leisure,2,3,156,2,5
+U0113,L0267,New York,group,6,3,483,5,12
+U0123,L0071,San Francisco,group,5,3,822,5,7
+U0059,L0237,Miami,business,1,3,720,4,1
+U0032,L0326,Boston,family,3,3,684,5,5
+U0205,L0348,New York,leisure,1,2,216,3,12
+U0098,L0345,New York,leisure,1,3,411,3,4
+U0225,L0072,New York,leisure,5,3,420,4,6
+U0087,L0302,San Francisco,business,1,14,4004,5,9
+U0249,L0452,Boston,business,2,5,770,5,8
+U0023,L0175,New York,family,5,2,194,5,5
+U0087,L0442,San Francisco,business,1,3,690,4,2
+U0024,L0453,Miami,business,2,14,3962,4,7
+U0205,L0181,Chicago,leisure,1,4,200,5,12
+U0224,L0548,Miami,business,1,3,531,5,10
+U0084,L0018,Miami,business,2,14,714,5,10
+U0022,L0281,New York,business,1,1,100,3,1
+U0062,L0547,San Francisco,group,5,4,644,5,8
+U0009,L0277,Boston,leisure,2,2,128,5,6
+U0225,L0295,Miami,family,5,7,938,5,10
+U0192,L0442,San Francisco,group,5,3,690,3,12
+U0179,L0090,Miami,group,3,3,657,4,2
+U0107,L0477,New York,group,6,14,2254,4,11
+U0201,L0355,San Francisco,business,1,4,372,4,12
+U0055,L0271,Boston,family,2,2,478,5,11
+U0245,L0044,Boston,romantic,1,1,262,4,3
+U0175,L0495,San Francisco,business,1,4,936,4,5
+U0224,L0164,Chicago,family,1,4,800,3,11
+U0181,L0199,Boston,group,2,5,340,5,11
+U0055,L0510,New York,family,3,3,651,5,11
+U0126,L0429,San Francisco,romantic,2,2,528,4,7
+U0071,L0565,Boston,romantic,3,3,138,5,3
+U0227,L0389,New York,group,2,7,924,5,5
+U0019,L0366,New York,leisure,4,5,680,3,5
+U0239,L0214,New York,group,5,3,633,5,4
+U0016,L0248,Miami,romantic,1,7,2058,4,12
+U0209,L0422,Chicago,business,4,7,1841,5,8
+U0185,L0429,San Francisco,business,1,4,1056,5,1
+U0121,L0371,New York,business,1,2,448,4,3
+U0023,L0017,Chicago,family,5,4,376,4,10
+U0249,L0289,Chicago,leisure,3,4,348,4,7
+U0093,L0485,Boston,business,1,14,1120,5,8
+U0017,L0344,New York,family,3,5,370,5,12
+U0001,L0484,Boston,group,1,14,2800,5,8
+U0012,L0338,Miami,group,5,5,1315,5,12
+U0181,L0141,Chicago,leisure,3,2,292,5,9
+U0061,L0246,New York,romantic,2,4,448,5,12
+U0078,L0289,Chicago,romantic,1,10,870,4,8
+U0205,L0246,New York,leisure,1,7,784,4,8
+U0102,L0176,New York,leisure,1,1,96,5,8
+U0151,L0557,Boston,leisure,1,4,976,1,5
+U0086,L0038,Boston,group,5,2,252,5,1
+U0056,L0575,Chicago,romantic,2,3,294,5,6
+U0244,L0153,Boston,romantic,2,1,52,5,1
+U0188,L0316,San Francisco,leisure,2,1,214,5,5
+U0120,L0354,New York,business,2,3,363,3,11
+U0148,L0057,New York,business,4,5,450,4,12
+U0237,L0597,Chicago,group,6,2,282,3,5
+U0034,L0440,Boston,group,2,4,960,4,8
+U0036,L0322,Boston,business,1,4,920,4,1
+U0060,L0569,Miami,leisure,2,5,900,5,12
+U0150,L0238,Miami,leisure,2,2,210,5,1
+U0069,L0163,Miami,leisure,3,7,1645,4,9
+U0054,L0215,Chicago,group,5,3,426,5,11
+U0125,L0222,New York,leisure,2,3,858,4,11
+U0174,L0289,Chicago,leisure,2,4,348,4,5
+U0095,L0301,San Francisco,romantic,2,3,720,5,8
+U0171,L0195,San Francisco,leisure,1,3,600,5,6
+U0053,L0205,Miami,leisure,3,4,696,5,9
+U0093,L0178,San Francisco,business,2,3,270,5,1
+U0057,L0384,Miami,group,1,10,2000,5,11
+U0055,L0296,New York,family,3,1,225,4,10
+U0212,L0369,San Francisco,business,2,5,740,5,1
+U0102,L0559,New York,leisure,1,10,750,5,7
+U0166,L0197,Boston,group,3,3,318,5,11
+U0137,L0092,Miami,family,3,4,1196,4,4
+U0136,L0215,Chicago,leisure,1,2,284,5,6
+U0091,L0179,Miami,family,3,10,970,4,4
+U0153,L0216,Chicago,leisure,3,10,400,4,6
+U0083,L0321,San Francisco,leisure,2,3,558,5,2
+U0121,L0289,Chicago,leisure,1,2,174,3,11
+U0038,L0146,Miami,leisure,1,3,738,4,6
+U0189,L0532,Boston,business,2,3,789,5,5
+U0236,L0181,Chicago,family,3,4,200,5,1
+U0205,L0084,New York,leisure,1,1,110,1,7
+U0185,L0579,New York,romantic,1,3,750,5,5
+U0237,L0571,Chicago,group,7,4,272,5,6
+U0158,L0226,New York,group,1,1,209,5,10
+U0051,L0397,San Francisco,family,3,2,170,5,2
+U0004,L0590,Chicago,family,5,3,273,4,10
+U0214,L0589,Boston,business,3,3,444,4,8
+U0197,L0115,San Francisco,family,1,5,830,5,9
+U0242,L0340,San Francisco,group,5,3,771,5,8
+U0139,L0491,San Francisco,leisure,2,3,249,3,9
+U0061,L0299,San Francisco,romantic,2,7,735,4,9
+U0082,L0020,Chicago,leisure,1,3,453,5,1
+U0131,L0515,Chicago,family,3,3,549,4,5
+U0239,L0599,New York,group,5,7,707,4,6
+U0046,L0127,Boston,group,2,4,548,4,2
+U0002,L0078,Boston,business,1,2,332,5,7
+U0110,L0234,New York,business,1,4,812,3,8
+U0071,L0599,New York,leisure,2,10,1010,3,2
+U0048,L0432,Boston,romantic,1,1,260,5,6
+U0142,L0470,Chicago,business,1,10,1410,3,1
+U0202,L0200,New York,group,6,3,792,4,9
+U0107,L0004,Miami,group,4,2,350,4,1
+U0043,L0136,Miami,leisure,2,5,780,1,3
+U0220,L0245,Miami,family,4,7,1568,3,9
+U0015,L0580,New York,romantic,3,4,840,3,10
+U0030,L0428,Miami,leisure,1,4,428,5,6
+U0031,L0141,Chicago,group,5,7,1022,5,9
+U0111,L0045,Miami,romantic,3,3,630,5,3
+U0153,L0518,Boston,leisure,2,7,1260,5,1
+U0126,L0441,New York,romantic,2,3,501,4,3
+U0020,L0581,San Francisco,romantic,2,3,372,5,1
+U0171,L0176,New York,romantic,1,3,288,5,6
+U0134,L0266,Miami,leisure,2,2,540,4,7
+U0028,L0203,Boston,leisure,2,10,2100,5,1
+U0100,L0221,Boston,business,1,10,740,4,3
+U0029,L0284,Chicago,leisure,1,1,199,5,11
+U0187,L0465,Miami,group,2,5,590,5,4
+U0051,L0355,San Francisco,leisure,2,3,279,5,10
+U0185,L0337,New York,family,2,5,1280,4,7
+U0143,L0342,Miami,leisure,2,5,1010,5,12
+U0100,L0486,Boston,business,1,5,320,5,6
+U0008,L0072,New York,romantic,1,1,140,5,9
+U0032,L0177,Boston,leisure,3,5,1180,5,5
+U0192,L0029,Miami,group,5,7,1575,5,2
+U0066,L0514,San Francisco,romantic,2,4,504,4,5
+U0072,L0221,Boston,business,1,1,74,4,9
+U0009,L0107,Boston,leisure,1,4,576,5,10
