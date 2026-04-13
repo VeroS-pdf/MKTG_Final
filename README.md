@@ -1,1 +1,6 @@
-# MKTG_Final
+# MKTG Final Project
+
+Company: Airbnb
+Proposed Solution: Airbnb can introduce AI to streamline the property finding search for users through introduction of a chatbot that interprets more natural language. Users would be able to ask the AI for specified experience or service recommendations near the area where they were staying. The AI could then combine the selected house and experience recommendations into an itinerary to help the user plan out their trip beyond just housing.
+
+Planned Analysis: To implement this chatbot, Airbnb could leverage a hybrid recommendation system that combines several AI techniques. The system would be pulling on user-user similarity scores (collaborative filtering). The chatbot could compare the user’s inputs to users similar to them to reorder their housing, experience, and service recommendations in order of most likely to least likely to enjoy. In tandem with this, it would incorporate content-based filtering using listing reviews and search for attributes the user is looking for. With this, the chatbot would employ the use of a semantic NLP layer to interpret natural language queries such as “I want a two-bedroom place 5 minutes from Fenway under $300 a night.” By combining these approaches, the chatbot will be able to both accurately filter results based on user constraints and personalize recommendations to maximize users’ utility and satisfaction.
